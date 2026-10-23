@@ -1,0 +1,2 @@
+pair,old_base,new_base,data_version,series,new_series_used,sample,months,first,last,corr,corr_ci_lo,corr_ci_hi,mean_old,mean_new,mean_gap_new_minus_old,gap_se_nw,gap_ci_lo,gap_ci_hi,mean_abs_diff,sd_old,sd_new,sd_ratio_new_old,share_contract_old,share_contract_new,share_direction_disagree
+Pair 3,2011-12,2022-23,esankhyiki,General,General,true YoY (from month 13),24,2024-04,2026-03,0.799,0.788,0.914,4.079,4.998,0.919,0.522,-0.104,1.941,1.39,1.898,2.075,1.093,0.0,0.042,0.083

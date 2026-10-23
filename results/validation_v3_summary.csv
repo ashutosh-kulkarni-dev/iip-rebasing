@@ -1,0 +1,8 @@
+pair,data_version,base_year,n,max_abs_diff_pp,n_outside_tol
+Pair 1,esankhyiki,1993-94,48,0.07,0
+Pair 1,esankhyiki,2004-05,48,0.07,0
+Pair 2,esankhyiki,2004-05,20,0.08,0
+Pair 2,esankhyiki,2011-12,20,0.58,2
+Pair 3,esankhyiki,2011-12,28,0.11,2
+Pair 3,esankhyiki,2022-23,33,0.09,0
+Pair 3,june2026,2022-23,30,0.12,0

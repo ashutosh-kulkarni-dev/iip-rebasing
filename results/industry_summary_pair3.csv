@@ -1,0 +1,2 @@
+industries,months,share_new_faster,n_new_faster,weighted_mean_gap,median_corr,spearman_gap_vs_item_group_change,spearman_absgap_vs_item_group_change,spearman_corr_vs_item_group_change
+23,21,0.739,17,1.36,0.613,-0.029,0.151,-0.01

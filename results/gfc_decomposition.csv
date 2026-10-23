@@ -1,0 +1,11 @@
+category_set,measure,old_data_old_wts,old_data_new_wts,new_data_old_wts,new_data_new_wts,gap,weight_effect,residual,weight_share_of_gap,max_single_order_weight_share
+four categories,In-window mean YoY growth (%),7.2899,8.0002,1.9521,2.4694,-4.8205,0.6138,-5.4343,-0.1273,0.1474
+four categories,MA drawdown (%),-0.1141,-0.0689,-3.4857,-3.5167,-3.4027,0.0071,-3.4097,-0.0021,0.0133
+four categories,Growth gap vs prior 24 months (pp),-2.1582,-1.1058,-11.1078,-12.5505,-10.3922,-0.1951,-10.1971,0.0188,0.1388
+four categories,YoY fall vs prior 12 months (pp),-8.5698,-7.9393,-20.5236,-22.9849,-14.4151,-0.9154,-13.4997,0.0635,0.1707
+four categories,Trend shortfall (%),-12.4634,-11.2078,-19.1125,-20.5293,-8.0659,-0.0806,-7.9853,0.01,0.1757
+excl. Capital Goods,In-window mean YoY growth (%),5.8677,6.5194,2.0075,2.6236,-3.2441,0.6339,-3.878,-0.1954,0.2009
+excl. Capital Goods,MA drawdown (%),-0.2107,-0.1715,-3.0941,-3.0708,-2.8602,0.0312,-2.8914,-0.0109,0.0137
+excl. Capital Goods,Growth gap vs prior 24 months (pp),-2.2018,-0.9517,-8.215,-9.314,-7.1122,0.0756,-7.1877,-0.0106,0.1758
+excl. Capital Goods,YoY fall vs prior 12 months (pp),-8.7915,-8.0771,-15.0901,-17.0053,-8.2139,-0.6004,-7.6135,0.0731,0.2332
+excl. Capital Goods,Trend shortfall (%),-12.2194,-10.5514,-17.1522,-18.4382,-6.2188,0.191,-6.4098,-0.0307,0.2682

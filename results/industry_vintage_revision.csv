@@ -1,0 +1,24 @@
+nic2,description,weight,index_apr25,index_apr26,cum_index_2024_25,cum_index_2025_26,growth_apr26,growth_2025_26,source,rev_2024-25,rev_2025-26,rev_growth_2025_26,jun_growth_2025_26_from_index,abs_change_growth_2025_26,abs_change_log_index_2024_25,value_share
+10,Manufacture of food products,5.679,95.9,101.0,101.4,104.0,5.3,2.6,"MoSPI first release, 1 June 2026, Statement II A",101.75,104.9667,3.1613,2.5641,0.5613,0.3446,0.0
+11,Manufacture of beverages,1.113,164.4,152.8,125.7,116.3,-7.1,-7.5,"MoSPI first release, 1 June 2026, Statement II A",125.6833,116.2583,-7.499,-7.4781,0.001,0.0133,0.0
+12,Manufacture of tobacco products,0.774,111.5,116.6,111.3,117.6,4.6,5.7,"MoSPI first release, 1 June 2026, Statement II A",111.5833,117.0417,4.8917,5.6604,0.8083,0.2542,0.3016
+13,Manufacture of textiles,3.275,114.7,132.6,116.7,119.4,15.6,2.3,"MoSPI first release, 1 June 2026, Statement II A",117.425,120.6417,2.7393,2.3136,0.4393,0.6193,0.0388
+14,Manufacture of wearing apparel,1.97,98.5,91.6,101.6,98.5,-7.0,-3.1,"MoSPI first release, 1 June 2026, Statement II A",101.5417,98.15,-3.3402,-3.0512,0.2402,0.0574,1.0
+15,Manufacture of leather and related products,0.607,96.8,98.3,100.2,100.0,1.5,-0.2,"MoSPI first release, 1 June 2026, Statement II A",101.4667,101.4417,-0.0246,-0.1996,0.1754,1.2562,0.2924
+16,"Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.239,95.5,83.6,104.1,107.8,-12.5,3.6,"MoSPI first release, 1 June 2026, Statement II A",104.9583,108.775,3.6364,3.5543,0.0364,0.8211,0.3342
+17,Manufacture of paper and paper products,1.375,102.0,116.0,104.6,110.3,13.8,5.4,"MoSPI first release, 1 June 2026, Statement II A",103.5,109.4,5.7005,5.4493,0.3005,1.0572,0.2651
+18,Printing and reproduction of recorded media,0.506,110.6,106.8,102.7,105.0,-3.4,2.2,"MoSPI first release, 1 June 2026, Statement II A",101.1333,102.4417,1.2937,2.2395,0.9063,1.5372,0.6522
+19,Manufacture of coke and refined petroleum products,7.721,104.6,104.1,108.4,109.6,-0.4,1.1,"MoSPI first release, 1 June 2026, Statement II A",108.3667,109.5917,1.1304,1.107,0.0304,0.0308,0.0
+20,Manufacture of chemicals and chemical products,7.813,104.0,104.4,109.6,108.7,0.4,-0.8,"MoSPI first release, 1 June 2026, Statement II A",109.4333,109.6333,0.1828,-0.8212,0.9828,0.1522,0.0467
+21,Manufacture of basic pharmaceuticals products and pharmaceutical preparations,5.833,113.7,117.5,119.3,119.6,3.4,0.3,"MoSPI first release, 1 June 2026, Statement II A",120.3083,120.8083,0.4156,0.2515,0.1156,0.8417,1.0
+22,Manufacture of rubber and plastics products,3.384,101.1,107.6,104.2,106.0,6.5,1.7,"MoSPI first release, 1 June 2026, Statement II A",103.45,105.2583,1.748,1.7274,0.048,0.7224,0.1776
+23,Manufacture of other non-metallic mineral products,3.519,111.3,116.0,109.4,115.6,4.3,5.7,"MoSPI first release, 1 June 2026, Statement II A",110.05,116.4667,5.8307,5.6673,0.1307,0.5924,0.0716
+24,Manufacture of basic metals,9.198,122.9,130.0,119.7,131.7,5.8,10.0,"MoSPI first release, 1 June 2026, Statement II A",119.725,131.7333,10.0299,10.0251,0.0299,0.0209,0.0
+25,"Manufacture of fabricated metal products, except machinery and equipment",2.481,111.4,124.3,115.5,125.6,11.7,8.7,"MoSPI first release, 1 June 2026, Statement II A",117.175,127.275,8.6196,8.7446,0.0804,1.4398,0.6103
+26,"Manufacture of computer, electronic and optical products",2.085,137.2,138.7,134.2,144.4,1.1,7.6,"MoSPI first release, 1 June 2026, Statement II A",133.1167,139.7,4.9455,7.6006,2.6545,0.8105,0.38
+27,Manufacture of electrical equipment,3.175,126.3,150.6,123.5,139.5,19.2,13.0,"MoSPI first release, 1 June 2026, Statement II A",122.4083,138.3333,13.0097,12.9555,0.0097,0.8879,0.2866
+28,Manufacture of machinery and equipment n.e.c.,5.02,108.5,122.5,119.9,130.0,12.9,8.4,"MoSPI first release, 1 June 2026, Statement II A",116.2833,123.7417,6.4139,8.4237,1.9861,3.0628,0.583
+29,"Manufacture of motor vehicles, trailers and semi-trailers",6.417,116.0,130.8,112.8,124.5,12.7,10.4,"MoSPI first release, 1 June 2026, Statement II A",113.0583,124.15,9.8106,10.3723,0.5894,0.2288,0.7245
+30,Manufacture of other transport equipment,2.089,124.9,148.4,130.4,145.1,18.9,11.3,"MoSPI first release, 1 June 2026, Statement II A",130.0417,143.525,10.3685,11.273,0.9315,0.2752,0.1063
+31,Manufacture of furniture,0.283,113.6,111.1,107.3,118.9,-2.2,10.8,"MoSPI first release, 1 June 2026, Statement II A",107.0833,118.0667,10.2568,10.8108,0.5432,0.2021,1.0
+32,Other manufacturing,1.509,124.3,124.6,115.5,117.6,0.3,1.8,"MoSPI first release, 1 June 2026, Statement II A",110.5417,109.475,-0.9649,1.8182,2.7649,4.3878,0.9313

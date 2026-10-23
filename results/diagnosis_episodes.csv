@@ -1,0 +1,89 @@
+episode,pair,family,window,statistic,unit,old,new,leader_old,leader_new,weakest_old,weakest_new,sign_flip_share,spearman
+GFC,Pair 1,sector,6 before / 6 after,contribution to change in General YoY growth (pp),Mining,-0.11,-0.114,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,6 before / 6 after,contribution to change in General YoY growth (pp),Manufacturing,-2.814,-7.849,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,6 before / 6 after,contribution to change in General YoY growth (pp),Electricity,0.006,0.001,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,6 before / 6 after,contribution to change in General YoY growth (pp),Other,-0.001,0.039,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,6 before / 6 after,contribution to change in General YoY growth (pp),General,-2.919,-7.923,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,12 before / 12 after,contribution to change in General YoY growth (pp),Mining,-0.017,-0.032,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,12 before / 12 after,contribution to change in General YoY growth (pp),Manufacturing,-2.922,-11.481,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,12 before / 12 after,contribution to change in General YoY growth (pp),Electricity,0.049,0.038,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,12 before / 12 after,contribution to change in General YoY growth (pp),Other,0.001,0.036,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,12 before / 12 after,contribution to change in General YoY growth (pp),General,-2.888,-11.439,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,24 before / 19 after,contribution to change in General YoY growth (pp),Mining,0.086,0.051,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,24 before / 19 after,contribution to change in General YoY growth (pp),Manufacturing,-1.824,-10.265,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,24 before / 19 after,contribution to change in General YoY growth (pp),Electricity,-0.113,-0.154,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,24 before / 19 after,contribution to change in General YoY growth (pp),Other,0.002,-0.002,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,sector,24 before / 19 after,contribution to change in General YoY growth (pp),General,-1.849,-10.371,Manufacturing,Manufacturing,Manufacturing,Manufacturing,0.0,1.0
+GFC,Pair 1,use-based,6 before / 6 after,contribution to change in General YoY growth (pp),Capital Goods,-0.056,-2.975,Intermediate Goods,Capital Goods,Intermediate Goods,Capital Goods,0.0,-0.7
+GFC,Pair 1,use-based,6 before / 6 after,contribution to change in General YoY growth (pp),Intermediate Goods,-1.81,-0.836,Intermediate Goods,Capital Goods,Intermediate Goods,Capital Goods,0.0,-0.7
+GFC,Pair 1,use-based,6 before / 6 after,contribution to change in General YoY growth (pp),Consumer Durables,-0.061,-2.562,Intermediate Goods,Capital Goods,Intermediate Goods,Capital Goods,0.0,-0.7
+GFC,Pair 1,use-based,6 before / 6 after,contribution to change in General YoY growth (pp),Consumer Non-durables,-0.455,-0.627,Intermediate Goods,Capital Goods,Intermediate Goods,Capital Goods,0.0,-0.7
+GFC,Pair 1,use-based,6 before / 6 after,contribution to change in General YoY growth (pp),Other,-0.536,-0.922,Intermediate Goods,Capital Goods,Intermediate Goods,Capital Goods,0.0,-0.7
+GFC,Pair 1,use-based,6 before / 6 after,contribution to change in General YoY growth (pp),General,-2.919,-7.923,Intermediate Goods,Capital Goods,Intermediate Goods,Capital Goods,0.0,-0.7
+GFC,Pair 1,use-based,12 before / 12 after,contribution to change in General YoY growth (pp),Capital Goods,-0.856,-5.173,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,-0.6
+GFC,Pair 1,use-based,12 before / 12 after,contribution to change in General YoY growth (pp),Intermediate Goods,-1.023,-0.831,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,-0.6
+GFC,Pair 1,use-based,12 before / 12 after,contribution to change in General YoY growth (pp),Consumer Durables,0.599,-2.515,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,-0.6
+GFC,Pair 1,use-based,12 before / 12 after,contribution to change in General YoY growth (pp),Consumer Non-durables,-1.323,-1.395,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,-0.6
+GFC,Pair 1,use-based,12 before / 12 after,contribution to change in General YoY growth (pp),Other,-0.285,-1.525,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,-0.6
+GFC,Pair 1,use-based,12 before / 12 after,contribution to change in General YoY growth (pp),General,-2.888,-11.439,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,-0.6
+GFC,Pair 1,use-based,24 before / 19 after,contribution to change in General YoY growth (pp),Capital Goods,-0.063,-3.732,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,0.2
+GFC,Pair 1,use-based,24 before / 19 after,contribution to change in General YoY growth (pp),Intermediate Goods,-0.452,-0.786,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,0.2
+GFC,Pair 1,use-based,24 before / 19 after,contribution to change in General YoY growth (pp),Consumer Durables,1.142,-1.511,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,0.2
+GFC,Pair 1,use-based,24 before / 19 after,contribution to change in General YoY growth (pp),Consumer Non-durables,-1.703,-2.307,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,0.2
+GFC,Pair 1,use-based,24 before / 19 after,contribution to change in General YoY growth (pp),Other,-0.773,-2.035,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,0.2
+GFC,Pair 1,use-based,24 before / 19 after,contribution to change in General YoY growth (pp),General,-1.849,-10.371,Consumer Non-durables,Capital Goods,Consumer Non-durables,Capital Goods,0.25,0.2
+Demonetisation,Pair 2,sector,7 before / 5 after,contribution to change in General YoY growth (pp),Mining,0.583,0.754,Manufacturing,Manufacturing,Electricity,Manufacturing,0.667,-0.5
+Demonetisation,Pair 2,sector,7 before / 5 after,contribution to change in General YoY growth (pp),Manufacturing,1.931,-2.916,Manufacturing,Manufacturing,Electricity,Manufacturing,0.667,-0.5
+Demonetisation,Pair 2,sector,7 before / 5 after,contribution to change in General YoY growth (pp),Electricity,0.03,-0.081,Manufacturing,Manufacturing,Electricity,Manufacturing,0.667,-0.5
+Demonetisation,Pair 2,sector,7 before / 5 after,contribution to change in General YoY growth (pp),Other,-0.013,-0.014,Manufacturing,Manufacturing,Electricity,Manufacturing,0.667,-0.5
+Demonetisation,Pair 2,sector,7 before / 5 after,contribution to change in General YoY growth (pp),General,2.531,-2.258,Manufacturing,Manufacturing,Electricity,Manufacturing,0.667,-0.5
+Demonetisation,Pair 2,sector,5 before / 5 after,contribution to change in General YoY growth (pp),Mining,0.64,0.924,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,5 before / 5 after,contribution to change in General YoY growth (pp),Manufacturing,1.795,-2.8,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,5 before / 5 after,contribution to change in General YoY growth (pp),Electricity,0.236,0.073,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,5 before / 5 after,contribution to change in General YoY growth (pp),Other,-0.021,-0.019,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,5 before / 5 after,contribution to change in General YoY growth (pp),General,2.65,-1.822,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,4 before / 5 after,contribution to change in General YoY growth (pp),Mining,0.786,1.18,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,4 before / 5 after,contribution to change in General YoY growth (pp),Manufacturing,2.164,-2.461,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,4 before / 5 after,contribution to change in General YoY growth (pp),Electricity,0.382,0.198,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,4 before / 5 after,contribution to change in General YoY growth (pp),Other,-0.025,-0.013,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,4 before / 5 after,contribution to change in General YoY growth (pp),General,3.307,-1.097,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,12 before / 5 after,contribution to change in General YoY growth (pp),Mining,0.476,0.597,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,12 before / 5 after,contribution to change in General YoY growth (pp),Manufacturing,2.243,-2.146,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,12 before / 5 after,contribution to change in General YoY growth (pp),Electricity,-0.013,-0.065,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,12 before / 5 after,contribution to change in General YoY growth (pp),Other,-0.011,-0.02,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,sector,12 before / 5 after,contribution to change in General YoY growth (pp),General,2.696,-1.634,Manufacturing,Manufacturing,Electricity,Manufacturing,0.333,-0.5
+Demonetisation,Pair 2,use-based,7 before / 5 after,contribution to change in General YoY growth (pp),Capital Goods,3.338,-0.233,Capital Goods,Consumer Durables,Intermediate Goods,Consumer Durables,0.25,-0.1
+Demonetisation,Pair 2,use-based,7 before / 5 after,contribution to change in General YoY growth (pp),Intermediate Goods,-0.457,-0.038,Capital Goods,Consumer Durables,Intermediate Goods,Consumer Durables,0.25,-0.1
+Demonetisation,Pair 2,use-based,7 before / 5 after,contribution to change in General YoY growth (pp),Consumer Durables,-0.339,-0.971,Capital Goods,Consumer Durables,Intermediate Goods,Consumer Durables,0.25,-0.1
+Demonetisation,Pair 2,use-based,7 before / 5 after,contribution to change in General YoY growth (pp),Consumer Non-durables,-0.285,-0.473,Capital Goods,Consumer Durables,Intermediate Goods,Consumer Durables,0.25,-0.1
+Demonetisation,Pair 2,use-based,7 before / 5 after,contribution to change in General YoY growth (pp),Other,0.273,-0.543,Capital Goods,Consumer Durables,Intermediate Goods,Consumer Durables,0.25,-0.1
+Demonetisation,Pair 2,use-based,7 before / 5 after,contribution to change in General YoY growth (pp),General,2.531,-2.258,Capital Goods,Consumer Durables,Intermediate Goods,Consumer Durables,0.25,-0.1
+Demonetisation,Pair 2,use-based,5 before / 5 after,contribution to change in General YoY growth (pp),Capital Goods,3.601,-0.052,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.25,0.5
+Demonetisation,Pair 2,use-based,5 before / 5 after,contribution to change in General YoY growth (pp),Intermediate Goods,-0.467,-0.135,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.25,0.5
+Demonetisation,Pair 2,use-based,5 before / 5 after,contribution to change in General YoY growth (pp),Consumer Durables,-0.224,-0.799,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.25,0.5
+Demonetisation,Pair 2,use-based,5 before / 5 after,contribution to change in General YoY growth (pp),Consumer Non-durables,-0.599,-0.693,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.25,0.5
+Demonetisation,Pair 2,use-based,5 before / 5 after,contribution to change in General YoY growth (pp),Other,0.34,-0.143,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.25,0.5
+Demonetisation,Pair 2,use-based,5 before / 5 after,contribution to change in General YoY growth (pp),General,2.65,-1.822,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.25,0.5
+Demonetisation,Pair 2,use-based,4 before / 5 after,contribution to change in General YoY growth (pp),Capital Goods,3.876,0.166,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.0,0.6
+Demonetisation,Pair 2,use-based,4 before / 5 after,contribution to change in General YoY growth (pp),Intermediate Goods,-0.386,-0.043,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.0,0.6
+Demonetisation,Pair 2,use-based,4 before / 5 after,contribution to change in General YoY growth (pp),Consumer Durables,-0.234,-0.808,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.0,0.6
+Demonetisation,Pair 2,use-based,4 before / 5 after,contribution to change in General YoY growth (pp),Consumer Non-durables,-0.517,-0.677,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.0,0.6
+Demonetisation,Pair 2,use-based,4 before / 5 after,contribution to change in General YoY growth (pp),Other,0.567,0.266,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.0,0.6
+Demonetisation,Pair 2,use-based,4 before / 5 after,contribution to change in General YoY growth (pp),General,3.307,-1.097,Capital Goods,Consumer Durables,Consumer Non-durables,Consumer Durables,0.0,0.6
+Demonetisation,Pair 2,use-based,12 before / 5 after,contribution to change in General YoY growth (pp),Capital Goods,3.089,-0.26,Capital Goods,Consumer Durables,Consumer Durables,Consumer Durables,0.5,0.1
+Demonetisation,Pair 2,use-based,12 before / 5 after,contribution to change in General YoY growth (pp),Intermediate Goods,-0.392,0.035,Capital Goods,Consumer Durables,Consumer Durables,Consumer Durables,0.5,0.1
+Demonetisation,Pair 2,use-based,12 before / 5 after,contribution to change in General YoY growth (pp),Consumer Durables,-0.489,-0.767,Capital Goods,Consumer Durables,Consumer Durables,Consumer Durables,0.5,0.1
+Demonetisation,Pair 2,use-based,12 before / 5 after,contribution to change in General YoY growth (pp),Consumer Non-durables,-0.122,-0.03,Capital Goods,Consumer Durables,Consumer Durables,Consumer Durables,0.5,0.1
+Demonetisation,Pair 2,use-based,12 before / 5 after,contribution to change in General YoY growth (pp),Other,0.61,-0.612,Capital Goods,Consumer Durables,Consumer Durables,Consumer Durables,0.5,0.1
+Demonetisation,Pair 2,use-based,12 before / 5 after,contribution to change in General YoY growth (pp),General,2.696,-1.634,Capital Goods,Consumer Durables,Consumer Durables,Consumer Durables,0.5,0.1
+2012-14 slowdown,Pair 2,sector,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Mining,-0.156,-0.391,Electricity,Manufacturing,Mining,Mining,0.0,0.5
+2012-14 slowdown,Pair 2,sector,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Manufacturing,0.209,3.291,Electricity,Manufacturing,Mining,Mining,0.0,0.5
+2012-14 slowdown,Pair 2,sector,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Electricity,0.464,0.403,Electricity,Manufacturing,Mining,Mining,0.0,0.5
+2012-14 slowdown,Pair 2,sector,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Other,0.003,0.0,Electricity,Manufacturing,Mining,Mining,0.0,0.5
+2012-14 slowdown,Pair 2,sector,average of 2012-13 and 2013-14,contribution to annual General growth (pp),General,0.519,3.304,Electricity,Manufacturing,Mining,Mining,0.0,0.5
+2012-14 slowdown,Pair 2,use-based,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Capital Goods,-0.65,-0.135,Consumer Non-durables,Intermediate Goods,Consumer Durables,Capital Goods,0.25,0.8
+2012-14 slowdown,Pair 2,use-based,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Intermediate Goods,0.314,0.84,Consumer Non-durables,Intermediate Goods,Consumer Durables,Capital Goods,0.25,0.8
+2012-14 slowdown,Pair 2,use-based,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Consumer Durables,-0.757,0.682,Consumer Non-durables,Intermediate Goods,Consumer Durables,Capital Goods,0.25,0.8
+2012-14 slowdown,Pair 2,use-based,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Consumer Non-durables,0.688,0.755,Consumer Non-durables,Intermediate Goods,Consumer Durables,Capital Goods,0.25,0.8
+2012-14 slowdown,Pair 2,use-based,average of 2012-13 and 2013-14,contribution to annual General growth (pp),Other,0.925,1.161,Consumer Non-durables,Intermediate Goods,Consumer Durables,Capital Goods,0.25,0.8
+2012-14 slowdown,Pair 2,use-based,average of 2012-13 and 2013-14,contribution to annual General growth (pp),General,0.519,3.304,Consumer Non-durables,Intermediate Goods,Consumer Durables,Capital Goods,0.25,0.8

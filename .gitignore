@@ -1,0 +1,53 @@
+# Whitelist: ignore everything, then allow back only what reproduces the paper.
+*
+!*/
+
+!.gitignore
+!README.md
+!LICENSE
+!requirements.txt
+
+# Pipeline (named, so stray drafts in pipeline/ are never pushed)
+!pipeline/config.py
+!pipeline/common.py
+!pipeline/load_clean.py
+!pipeline/build_data.py
+!pipeline/validate.py
+!pipeline/overlaps.py
+!pipeline/decomposition.py
+!pipeline/splice.py
+!pipeline/benchmark.py
+!pipeline/revision.py
+!pipeline/episodes.py
+!pipeline/noise.py
+!pipeline/inference.py
+!pipeline/charts.py
+!pipeline/paper_numbers.py
+!pipeline/run_all.py
+
+# Raw inputs that are redistributed, with provenance
+!data/raw/README.md
+!data/raw/esankhyiki_2022-23_iip_166.xlsx
+!data/raw/esankhyiki_2022-23_iip_6.xlsx
+!data/raw/esankhyiki_2011-12_iip_68.xlsx
+!data/raw/mospi_iip_2022-23_first_release_2026-06-01.html
+!data/raw/linking_factor.pdf
+
+# Official tables (transcribed or parsed) and cleaned data
+!data/official/*.csv
+!data/clean/tidy_long.csv
+!data/clean/iip_monthly.csv
+!data/clean/iip_2022-23_june2026.csv
+!data/clean/industry_monthly.csv
+
+# Results and figures
+!results/*.csv
+!results/paper_numbers.json
+!charts/*.png
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# The manuscript (paper/) is kept out of the public repository until publication.
+paper/

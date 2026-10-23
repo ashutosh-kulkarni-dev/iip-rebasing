@@ -1,0 +1,6 @@
+pair,fiscal_year,asi_nominal_growth,wpi_mfg_inflation,asi_real_growth,iip_old,iip_new,abs_gap_old,abs_gap_new,closer
+Pair 1,2008-09,17.909,6.173,11.053,3.34,2.46,7.713,8.593,old
+Pair 1,2009-10,14.063,2.243,11.561,11.0,4.84,0.561,6.721,old
+Pair 2,2012-13,5.65,5.3,0.333,1.29,4.83,0.957,4.497,old
+Pair 2,2013-14,8.784,3.039,5.575,-0.77,3.59,6.345,1.985,new
+Pair 2,2016-17,5.875,1.374,4.44,-0.02,4.32,4.46,0.12,new

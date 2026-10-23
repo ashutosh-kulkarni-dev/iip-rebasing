@@ -1,0 +1,12 @@
+series,months_compared,months_differing,max_abs_diff_index_pts,mean_diff_index_pts
+Capital Goods,37,37,7.3,-2.53
+Consumer Durables,37,36,2.8,-0.89
+Consumer Non-durables,37,36,3.0,0.18
+Electricity & Gas Supply,37,37,13.5,-1.99
+General,37,37,1.9,-0.41
+Infrastructure/ Construction Goods,37,37,1.7,-0.24
+Intermediate Goods,37,37,4.6,0.5
+Manufacturing,37,37,1.2,-0.25
+Mining,37,15,1.5,0.06
+Primary Goods,37,35,5.2,-0.13
+"Water Supply, Sewerage & Waste Management",37,4,0.1,0.0

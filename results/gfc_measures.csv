@@ -1,0 +1,91 @@
+base_year,series,measure,value
+1993-94,General,In-window mean YoY growth (%),7.33
+1993-94,General,MA drawdown (%),0.0
+1993-94,General,Growth gap vs prior 24 months (pp),-1.849
+1993-94,General,YoY fall vs prior 12 months (pp),-6.361
+1993-94,General,Trend shortfall (%),-10.92
+1993-94,Manufacturing,In-window mean YoY growth (%),7.576
+1993-94,Manufacturing,MA drawdown (%),-0.022
+1993-94,Manufacturing,Growth gap vs prior 24 months (pp),-2.216
+1993-94,Manufacturing,YoY fall vs prior 12 months (pp),-7.267
+1993-94,Manufacturing,Trend shortfall (%),-12.361
+1993-94,Mining,In-window mean YoY growth (%),6.95
+1993-94,Mining,MA drawdown (%),0.0
+1993-94,Mining,Growth gap vs prior 24 months (pp),1.59
+1993-94,Mining,YoY fall vs prior 12 months (pp),-4.763
+1993-94,Mining,Trend shortfall (%),-7.733
+1993-94,Electricity,In-window mean YoY growth (%),4.962
+1993-94,Electricity,MA drawdown (%),0.0
+1993-94,Electricity,Growth gap vs prior 24 months (pp),-1.143
+1993-94,Electricity,YoY fall vs prior 12 months (pp),-3.228
+1993-94,Electricity,Trend shortfall (%),-10.447
+1993-94,Capital Goods,In-window mean YoY growth (%),15.376
+1993-94,Capital Goods,MA drawdown (%),0.0
+1993-94,Capital Goods,Growth gap vs prior 24 months (pp),-3.638
+1993-94,Capital Goods,YoY fall vs prior 12 months (pp),-18.779
+1993-94,Capital Goods,Trend shortfall (%),-35.22
+1993-94,Intermediate Goods,In-window mean YoY growth (%),7.209
+1993-94,Intermediate Goods,MA drawdown (%),-2.962
+1993-94,Intermediate Goods,Growth gap vs prior 24 months (pp),-1.274
+1993-94,Intermediate Goods,YoY fall vs prior 12 months (pp),-14.042
+1993-94,Intermediate Goods,Trend shortfall (%),-14.903
+1993-94,Consumer Durables,In-window mean YoY growth (%),17.032
+1993-94,Consumer Durables,MA drawdown (%),-0.26
+1993-94,Consumer Durables,Growth gap vs prior 24 months (pp),15.174
+1993-94,Consumer Durables,YoY fall vs prior 12 months (pp),-3.636
+1993-94,Consumer Durables,Trend shortfall (%),-10.585
+1993-94,Consumer Non-durables,In-window mean YoY growth (%),2.23
+1993-94,Consumer Non-durables,MA drawdown (%),-0.014
+1993-94,Consumer Non-durables,Growth gap vs prior 24 months (pp),-7.037
+1993-94,Consumer Non-durables,YoY fall vs prior 12 months (pp),-17.981
+1993-94,Consumer Non-durables,Trend shortfall (%),-17.096
+1993-94,Four-category aggregate (own weights),In-window mean YoY growth (%),7.29
+1993-94,Four-category aggregate (own weights),MA drawdown (%),-0.114
+1993-94,Four-category aggregate (own weights),Growth gap vs prior 24 months (pp),-2.158
+1993-94,Four-category aggregate (own weights),YoY fall vs prior 12 months (pp),-8.57
+1993-94,Four-category aggregate (own weights),Trend shortfall (%),-12.463
+2004-05,General,In-window mean YoY growth (%),3.165
+2004-05,General,MA drawdown (%),-1.711
+2004-05,General,Growth gap vs prior 24 months (pp),-10.371
+2004-05,General,YoY fall vs prior 12 months (pp),-18.538
+2004-05,General,Trend shortfall (%),-17.64
+2004-05,Manufacturing,In-window mean YoY growth (%),2.642
+2004-05,Manufacturing,MA drawdown (%),-2.796
+2004-05,Manufacturing,Growth gap vs prior 24 months (pp),-13.205
+2004-05,Manufacturing,YoY fall vs prior 12 months (pp),-22.415
+2004-05,Manufacturing,Trend shortfall (%),-21.176
+2004-05,Mining,In-window mean YoY growth (%),5.827
+2004-05,Mining,MA drawdown (%),0.0
+2004-05,Mining,Growth gap vs prior 24 months (pp),0.98
+2004-05,Mining,YoY fall vs prior 12 months (pp),-3.775
+2004-05,Mining,Trend shortfall (%),-6.847
+2004-05,Electricity,In-window mean YoY growth (%),4.984
+2004-05,Electricity,MA drawdown (%),0.0
+2004-05,Electricity,Growth gap vs prior 24 months (pp),-1.124
+2004-05,Electricity,YoY fall vs prior 12 months (pp),-3.223
+2004-05,Electricity,Trend shortfall (%),-10.472
+2004-05,Capital Goods,In-window mean YoY growth (%),2.405
+2004-05,Capital Goods,MA drawdown (%),-8.409
+2004-05,Capital Goods,Growth gap vs prior 24 months (pp),-34.909
+2004-05,Capital Goods,YoY fall vs prior 12 months (pp),-64.451
+2004-05,Capital Goods,Trend shortfall (%),-44.884
+2004-05,Intermediate Goods,In-window mean YoY growth (%),3.042
+2004-05,Intermediate Goods,MA drawdown (%),-1.737
+2004-05,Intermediate Goods,Growth gap vs prior 24 months (pp),-4.864
+2004-05,Intermediate Goods,YoY fall vs prior 12 months (pp),-11.178
+2004-05,Intermediate Goods,Trend shortfall (%),-12.703
+2004-05,Consumer Durables,In-window mean YoY growth (%),12.994
+2004-05,Consumer Durables,MA drawdown (%),-1.686
+2004-05,Consumer Durables,Growth gap vs prior 24 months (pp),-17.773
+2004-05,Consumer Durables,YoY fall vs prior 12 months (pp),-47.135
+2004-05,Consumer Durables,Trend shortfall (%),-33.937
+2004-05,Consumer Non-durables,In-window mean YoY growth (%),-1.375
+2004-05,Consumer Non-durables,MA drawdown (%),-6.243
+2004-05,Consumer Non-durables,Growth gap vs prior 24 months (pp),-10.801
+2004-05,Consumer Non-durables,YoY fall vs prior 12 months (pp),-23.648
+2004-05,Consumer Non-durables,Trend shortfall (%),-25.237
+2004-05,Four-category aggregate (own weights),In-window mean YoY growth (%),2.469
+2004-05,Four-category aggregate (own weights),MA drawdown (%),-3.517
+2004-05,Four-category aggregate (own weights),Growth gap vs prior 24 months (pp),-12.55
+2004-05,Four-category aggregate (own weights),YoY fall vs prior 12 months (pp),-22.985
+2004-05,Four-category aggregate (own weights),Trend shortfall (%),-20.529

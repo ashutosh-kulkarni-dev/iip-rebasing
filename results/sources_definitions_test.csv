@@ -1,0 +1,7 @@
+units,pair,demeaned_data_share,demeaned_total_share,lo,hi,expected_blocks
+Capital Goods,Pair 1,0.4781,0.4702,0.4047,0.5866,5.25
+Capital Goods,Pair 2,0.4797,0.494,0.2673,0.6608,4.0
+Capital Goods,Pair 1 - Pair 2,-0.0017,,-0.1983,0.2309,
+Capital Goods + Consumer Durables,Pair 1,0.7235,0.7078,0.6141,0.8162,5.25
+Capital Goods + Consumer Durables,Pair 2,0.6541,0.6429,0.5235,0.8688,4.0
+Capital Goods + Consumer Durables,Pair 1 - Pair 2,0.0694,,-0.165,0.2289,

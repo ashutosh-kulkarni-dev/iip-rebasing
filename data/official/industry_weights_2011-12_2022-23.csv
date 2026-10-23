@@ -1,0 +1,38 @@
+nic,description,w_2011,n_2011,w_2022,n_2022
+05-06,Fuel Minerals,--,--,5.647,1
+07,Metallic Minerals incl. Rare earth Minerals,--,--,1.995,1
+08,Non-Metallic Minerals incl. Minor Minerals,--,--,3.411,1
+05-08,Mining & Quarrying,14.372,1,11.053,3
+10,Manufacture of food products,5.302,53,5.679,56
+11,Manufacture of beverages,1.035,7,1.113,6
+12,Manufacture of tobacco products,0.798,3,0.774,3
+13,Manufacture of textiles,3.291,18,3.275,25
+14,Manufacture of wearing apparel,1.322,4,1.970,5
+15,Manufacture of leather and related products,0.502,3,0.607,9
+16,"Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.193,6,0.239,6
+17,Manufacture of paper and paper products,0.872,3,1.375,3
+18,Printing and reproduction of recorded media,0.680,6,0.506,3
+19,Manufacture of coke and refined petroleum products,11.775,10,7.721,8
+20,Manufacture of chemicals and chemical products,7.873,65,7.813,68
+21,Manufacture of basic pharmaceuticals products and pharmaceutical preparations,4.981,20,5.833,22
+22,Manufacture of rubber and plastics products,2.422,25,3.384,27
+23,Manufacture of other non-metallic mineral products,4.085,15,3.519,20
+24,Manufacture of basic metals,12.804,28,9.198,33
+25,"Manufacture of fabricated metal products, except machinery and equipment",2.655,19,2.481,28
+26,"Manufacture of computer, electronic and optical products",1.570,18,2.085,17
+27,Manufacture of electrical equipment,2.998,33,3.175,29
+28,Manufacture of machinery and equipment n.e.c.,4.765,37,5.020,36
+29,"Manufacture of motor vehicles, trailers and semi-trailers",4.857,7,6.417,11
+30,Manufacture of other transport equipment,1.776,6,2.089,11
+31,Manufacture of furniture,0.131,3,0.283,5
+32,Other manufacturing,0.941,16,1.509,24
+10-32,Manufacturing,77.633,405,76.062,455
+3512,Electricity Generation from Renewable Sources,--,--,2.332,1
+3511,Electricity Generation from Non-Renewable Sources,--,--,7.839,1
+351,Electricity,7.995,1,10.171,2
+3512,Gas Supply,--,--,0.694,1
+352,Electricity & Gas Supply,--,--,10.865,3
+36,Water Supply,--,--,1.059,1
+37-38,Sewerage & Waste Management,--,--,0.961,1
+36-38,"Water Supply, Sewerage & Waste Management",--,--,2.020,2
+,General Index,100,407,100,463

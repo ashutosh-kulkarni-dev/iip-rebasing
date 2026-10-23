@@ -1,0 +1,185 @@
+series,rule,statistic,value
+General,new base first,average annual growth 1994-95 to 2025-26 (%),5.557
+General,new base first,average annual growth 2005-06 to 2010-11 (%),8.721
+General,new base first,average annual growth 2012-13 to 2016-17 (%),3.685
+General,new base first,average annual growth 2017-18 to 2025-26 (%),3.45
+General,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),4.994
+General,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),8.319
+General,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),1.475
+General,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),3.169
+General,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),4.936
+General,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),8.319
+General,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),1.32
+General,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),3.326
+General,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),5.475
+General,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),8.319
+General,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),1.619
+General,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),4.463
+General,overlap blend,average annual growth 1994-95 to 2025-26 (%),5.557
+General,overlap blend,average annual growth 2005-06 to 2010-11 (%),8.679
+General,overlap blend,average annual growth 2012-13 to 2016-17 (%),3.47
+General,overlap blend,average annual growth 2017-18 to 2025-26 (%),3.571
+General,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",-2.868
+General,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",-10.605
+General,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",-2.405
+Mining,new base first,average annual growth 1994-95 to 2025-26 (%),2.739
+Mining,new base first,average annual growth 2005-06 to 2010-11 (%),4.569
+Mining,new base first,average annual growth 2012-13 to 2016-17 (%),0.435
+Mining,new base first,average annual growth 2017-18 to 2025-26 (%),2.635
+Mining,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),2.965
+Mining,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),4.946
+Mining,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),0.557
+Mining,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),3.08
+Mining,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),2.948
+Mining,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),4.946
+Mining,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),0.622
+Mining,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),2.873
+Mining,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),2.863
+Mining,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),4.946
+Mining,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),0.447
+Mining,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),2.978
+Mining,overlap blend,average annual growth 1994-95 to 2025-26 (%),2.739
+Mining,overlap blend,average annual growth 2005-06 to 2010-11 (%),4.613
+Mining,overlap blend,average annual growth 2012-13 to 2016-17 (%),0.457
+Mining,overlap blend,average annual growth 2017-18 to 2025-26 (%),2.621
+Mining,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",2.198
+Mining,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",0.911
+Mining,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",3.477
+Manufacturing,new base first,average annual growth 1994-95 to 2025-26 (%),5.945
+Manufacturing,new base first,average annual growth 2005-06 to 2010-11 (%),9.806
+Manufacturing,new base first,average annual growth 2012-13 to 2016-17 (%),3.852
+Manufacturing,new base first,average annual growth 2017-18 to 2025-26 (%),3.36
+Manufacturing,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),5.155
+Manufacturing,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),8.87
+Manufacturing,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),1.059
+Manufacturing,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),3.013
+Manufacturing,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),5.094
+Manufacturing,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),8.87
+Manufacturing,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),0.855
+Manufacturing,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),3.278
+Manufacturing,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),5.843
+Manufacturing,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),8.87
+Manufacturing,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),1.349
+Manufacturing,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),4.649
+Manufacturing,overlap blend,average annual growth 1994-95 to 2025-26 (%),5.945
+Manufacturing,overlap blend,average annual growth 2005-06 to 2010-11 (%),9.705
+Manufacturing,overlap blend,average annual growth 2012-13 to 2016-17 (%),3.577
+Manufacturing,overlap blend,average annual growth 2017-18 to 2025-26 (%),3.515
+Manufacturing,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",-5.834
+Manufacturing,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",-13.207
+Manufacturing,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",-2.928
+Electricity,new base first,average annual growth 1994-95 to 2025-26 (%),5.495
+Electricity,new base first,average annual growth 2005-06 to 2010-11 (%),5.507
+Electricity,new base first,average annual growth 2012-13 to 2016-17 (%),7.201
+Electricity,new base first,average annual growth 2017-18 to 2025-26 (%),4.496
+Electricity,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),5.273
+Electricity,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),5.518
+Electricity,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),5.765
+Electricity,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),4.513
+Electricity,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),5.31
+Electricity,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),5.518
+Electricity,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),5.765
+Electricity,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),4.641
+Electricity,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),5.5
+Electricity,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),5.518
+Electricity,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),5.762
+Electricity,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),5.299
+Electricity,overlap blend,average annual growth 1994-95 to 2025-26 (%),5.495
+Electricity,overlap blend,average annual growth 2005-06 to 2010-11 (%),5.508
+Electricity,overlap blend,average annual growth 2012-13 to 2016-17 (%),7.058
+Electricity,overlap blend,average annual growth 2017-18 to 2025-26 (%),4.573
+Electricity,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",0.061
+Electricity,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",-6.508
+Electricity,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",0.151
+Capital Goods,new base first,average annual growth 1994-95 to 2025-26 (%),6.937
+Capital Goods,new base first,average annual growth 2005-06 to 2010-11 (%),18.325
+Capital Goods,new base first,average annual growth 2012-13 to 2016-17 (%),0.204
+Capital Goods,new base first,average annual growth 2017-18 to 2025-26 (%),2.867
+Capital Goods,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),5.357
+Capital Goods,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),15.567
+Capital Goods,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),-3.721
+Capital Goods,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),2.043
+Capital Goods,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),4.876
+Capital Goods,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),15.567
+Capital Goods,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),-4.344
+Capital Goods,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),1.828
+Capital Goods,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),6.69
+Capital Goods,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),15.567
+Capital Goods,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),-2.909
+Capital Goods,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),4.473
+Capital Goods,overlap blend,average annual growth 1994-95 to 2025-26 (%),6.937
+Capital Goods,overlap blend,average annual growth 2005-06 to 2010-11 (%),17.993
+Capital Goods,overlap blend,average annual growth 2012-13 to 2016-17 (%),-0.198
+Capital Goods,overlap blend,average annual growth 2017-18 to 2025-26 (%),3.104
+Capital Goods,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",-15.82
+Capital Goods,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",-19.002
+Capital Goods,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",-6.57
+Intermediate Goods,new base first,average annual growth 1994-95 to 2025-26 (%),5.546
+Intermediate Goods,new base first,average annual growth 2005-06 to 2010-11 (%),6.416
+Intermediate Goods,new base first,average annual growth 2012-13 to 2016-17 (%),4.102
+Intermediate Goods,new base first,average annual growth 2017-18 to 2025-26 (%),4.156
+Intermediate Goods,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),5.296
+Intermediate Goods,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),7.163
+Intermediate Goods,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),2.185
+Intermediate Goods,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),3.933
+Intermediate Goods,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),5.215
+Intermediate Goods,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),7.163
+Intermediate Goods,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),2.12
+Intermediate Goods,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),3.803
+Intermediate Goods,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),5.48
+Intermediate Goods,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),7.163
+Intermediate Goods,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),1.983
+Intermediate Goods,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),5.016
+Intermediate Goods,overlap blend,average annual growth 1994-95 to 2025-26 (%),5.546
+Intermediate Goods,overlap blend,average annual growth 2005-06 to 2010-11 (%),6.508
+Intermediate Goods,overlap blend,average annual growth 2012-13 to 2016-17 (%),3.934
+Intermediate Goods,overlap blend,average annual growth 2017-18 to 2025-26 (%),4.248
+Intermediate Goods,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",4.016
+Intermediate Goods,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",-8.892
+Intermediate Goods,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",-1.882
+Consumer Durables,new base first,average annual growth 1994-95 to 2025-26 (%),8.021
+Consumer Durables,new base first,average annual growth 2005-06 to 2010-11 (%),19.191
+Consumer Durables,new base first,average annual growth 2012-13 to 2016-17 (%),4.136
+Consumer Durables,new base first,average annual growth 2017-18 to 2025-26 (%),1.002
+Consumer Durables,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),5.699
+Consumer Durables,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),11.37
+Consumer Durables,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),-1.656
+Consumer Durables,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),1.088
+Consumer Durables,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),6.236
+Consumer Durables,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),11.37
+Consumer Durables,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),-1.549
+Consumer Durables,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),2.606
+Consumer Durables,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),8.059
+Consumer Durables,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),11.37
+Consumer Durables,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),-0.046
+Consumer Durables,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),4.411
+Consumer Durables,overlap blend,average annual growth 1994-95 to 2025-26 (%),8.021
+Consumer Durables,overlap blend,average annual growth 2005-06 to 2010-11 (%),18.28
+Consumer Durables,overlap blend,average annual growth 2012-13 to 2016-17 (%),3.58
+Consumer Durables,overlap blend,average annual growth 2017-18 to 2025-26 (%),1.319
+Consumer Durables,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",-32.435
+Consumer Durables,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",-25.043
+Consumer Durables,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",1.053
+Consumer Non-durables,new base first,average annual growth 1994-95 to 2025-26 (%),4.88
+Consumer Non-durables,new base first,average annual growth 2005-06 to 2010-11 (%),5.031
+Consumer Non-durables,new base first,average annual growth 2012-13 to 2016-17 (%),4.68
+Consumer Non-durables,new base first,average annual growth 2017-18 to 2025-26 (%),3.026
+Consumer Non-durables,old base last (12-month link),average annual growth 1994-95 to 2025-26 (%),4.218
+Consumer Non-durables,old base last (12-month link),average annual growth 2005-06 to 2010-11 (%),6.358
+Consumer Non-durables,old base last (12-month link),average annual growth 2012-13 to 2016-17 (%),1.216
+Consumer Non-durables,old base last (12-month link),average annual growth 2017-18 to 2025-26 (%),1.998
+Consumer Non-durables,old base last (1-month link),average annual growth 1994-95 to 2025-26 (%),4.104
+Consumer Non-durables,old base last (1-month link),average annual growth 2005-06 to 2010-11 (%),6.358
+Consumer Non-durables,old base last (1-month link),average annual growth 2012-13 to 2016-17 (%),0.958
+Consumer Non-durables,old base last (1-month link),average annual growth 2017-18 to 2025-26 (%),2.217
+Consumer Non-durables,"old base last, base-year factor",average annual growth 1994-95 to 2025-26 (%),4.582
+Consumer Non-durables,"old base last, base-year factor",average annual growth 2005-06 to 2010-11 (%),6.358
+Consumer Non-durables,"old base last, base-year factor",average annual growth 2012-13 to 2016-17 (%),0.873
+Consumer Non-durables,"old base last, base-year factor",average annual growth 2017-18 to 2025-26 (%),4.036
+Consumer Non-durables,overlap blend,average annual growth 1994-95 to 2025-26 (%),4.88
+Consumer Non-durables,overlap blend,average annual growth 2005-06 to 2010-11 (%),5.179
+Consumer Non-durables,overlap blend,average annual growth 2012-13 to 2016-17 (%),4.331
+Consumer Non-durables,overlap blend,average annual growth 2017-18 to 2025-26 (%),3.216
+Consumer Non-durables,-,"Pair 1: linked old-base level vs new base, last 12 overlap months (%)",7.314
+Consumer Non-durables,-,"Pair 2: linked old-base level vs new base, last 12 overlap months (%)",-16.182
+Consumer Non-durables,-,"Pair 3: linked old-base level vs new base, last 12 overlap months (%)",-8.479

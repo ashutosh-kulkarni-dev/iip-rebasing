@@ -1,0 +1,30 @@
+rule,statistic,value
+new base first,Cumulative growth 1994-95 to 2025-26 (%),434.7081
+new base first,Average annual growth 1994-95 to 2025-26 (%),5.5571
+new base first,GFC in-window mean YoY growth (%),3.1645
+new base first,Link 2005-04: mean |spliced YoY - old-base YoY| (pp),1.4191
+new base first,Link 2005-04: mean |spliced YoY - new-base YoY| (pp),
+new base first,Link 2012-04: mean |spliced YoY - old-base YoY| (pp),2.4802
+new base first,Link 2012-04: mean |spliced YoY - new-base YoY| (pp),
+new base first,Link 2023-04: mean |spliced YoY - old-base YoY| (pp),1.3494
+new base first,Link 2023-04: mean |spliced YoY - new-base YoY| (pp),
+old base last,Cumulative growth 1994-95 to 2025-26 (%),353.0459
+old base last,Average annual growth 1994-95 to 2025-26 (%),4.9943
+old base last,GFC in-window mean YoY growth (%),7.3302
+old base last,Link 2011-07: mean |spliced YoY - old-base YoY| (pp),
+old base last,Link 2011-07: mean |spliced YoY - new-base YoY| (pp),1.4391
+old base last,Link 2017-04: mean |spliced YoY - old-base YoY| (pp),
+old base last,Link 2017-04: mean |spliced YoY - new-base YoY| (pp),1.2129
+"old base last, base-year factor",Cumulative growth 1994-95 to 2025-26 (%),421.9089
+"old base last, base-year factor",Average annual growth 1994-95 to 2025-26 (%),5.4747
+"old base last, base-year factor",GFC in-window mean YoY growth (%),7.3302
+"old base last, base-year factor",Link 2011-07: mean |spliced YoY - old-base YoY| (pp),
+"old base last, base-year factor",Link 2011-07: mean |spliced YoY - new-base YoY| (pp),3.3317
+"old base last, base-year factor",Link 2017-04: mean |spliced YoY - old-base YoY| (pp),
+"old base last, base-year factor",Link 2017-04: mean |spliced YoY - new-base YoY| (pp),12.3974
+-,Linking factor 1993-94 -> 2004-05,2.107
+-,Linking factor 2004-05 -> 2011-12,1.7008
+-,Linking factor 2011-12 -> 2022-23,1.3834
+-,"Pair 1: linked 1993-94 level vs 2004-05, last 12 overlap months (%)",-2.8683
+-,"Pair 2: linked 2004-05 level vs 2011-12, last 12 overlap months (%)",-10.6051
+-,"Pair 3: linked 2011-12 level vs 2022-23, last 12 overlap months (%)",-2.4051

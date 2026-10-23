@@ -1,0 +1,49 @@
+episode,statistic,series,base,role,value
+GFC,"change in mean YoY growth, crisis window minus 24 months before",General,1993-94,older,-1.849
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Mining,1993-94,older,1.59
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Manufacturing,1993-94,older,-2.216
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Electricity,1993-94,older,-1.143
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Capital Goods,1993-94,older,-3.638
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Intermediate Goods,1993-94,older,-1.274
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Consumer Durables,1993-94,older,15.174
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Consumer Non-durables,1993-94,older,-7.037
+GFC,"change in mean YoY growth, crisis window minus 24 months before",General,2004-05,newer,-10.371
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Mining,2004-05,newer,0.98
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Manufacturing,2004-05,newer,-13.205
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Electricity,2004-05,newer,-1.124
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Capital Goods,2004-05,newer,-34.909
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Intermediate Goods,2004-05,newer,-4.864
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Consumer Durables,2004-05,newer,-17.773
+GFC,"change in mean YoY growth, crisis window minus 24 months before",Consumer Non-durables,2004-05,newer,-10.801
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,General,2004-05,older,0.519
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Mining,2004-05,older,-1.467
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Manufacturing,2004-05,older,0.261
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Electricity,2004-05,older,5.039
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Capital Goods,2004-05,older,-4.81
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Intermediate Goods,2004-05,older,2.353
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Consumer Durables,2004-05,older,-5.112
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Consumer Non-durables,2004-05,older,3.799
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,General,2011-12,newer,3.304
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Mining,2011-12,newer,-2.726
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Manufacturing,2011-12,newer,4.213
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Electricity,2011-12,newer,5.021
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Capital Goods,2011-12,newer,-1.69
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Intermediate Goods,2011-12,newer,4.838
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Consumer Durables,2011-12,newer,5.27
+2012-14 slowdown,average annual growth 2012-13 and 2013-14,Consumer Non-durables,2011-12,newer,4.876
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",General,2004-05,older,2.531
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Mining,2004-05,older,5.497
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Manufacturing,2004-05,older,2.452
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Electricity,2004-05,older,0.348
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Capital Goods,2004-05,older,26.054
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Intermediate Goods,2004-05,older,-3.367
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Consumer Durables,2004-05,older,-2.844
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Consumer Non-durables,2004-05,older,-1.192
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",General,2011-12,newer,-2.258
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Mining,2011-12,newer,5.747
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Manufacturing,2011-12,newer,-3.707
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Electricity,2011-12,newer,-0.399
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Capital Goods,2011-12,newer,-4.02
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Intermediate Goods,2011-12,newer,-0.117
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Consumer Durables,2011-12,newer,-7.254
+Demonetisation,"change in mean YoY growth, Nov 2016-Mar 2017 minus Apr-Oct 2016",Consumer Non-durables,2011-12,newer,-3.444

@@ -1,0 +1,371 @@
+pair,data_version,family,L,date,dG_old,dG_new,agg_dir_same,leader_old,leader_new,leader_same,leader_abs_same,weakest_old,weakest_new,sign_flip_share,spearman
+Pair 1,esankhyiki,sector,6,2006-10,1.9209,2.7455,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2006-11,3.7628,4.1178,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.3333,1.0
+Pair 1,esankhyiki,sector,6,2006-12,2.1845,2.5574,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2007-01,0.4835,2.9095,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2007-02,-0.111,3.463,False,Electricity,Manufacturing,False,False,Electricity,Mining,0.0,0.5
+Pair 1,esankhyiki,sector,6,2007-03,-0.5295,3.4891,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-0.5
+Pair 1,esankhyiki,sector,6,2007-04,-2.7745,3.1318,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-0.5
+Pair 1,esankhyiki,sector,6,2007-05,-3.9683,2.0604,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-0.5
+Pair 1,esankhyiki,sector,6,2007-06,-4.4192,0.6204,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-1.0
+Pair 1,esankhyiki,sector,6,2007-07,-3.7547,-1.4175,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2007-08,-3.5399,-2.3219,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2007-09,-3.5754,-3.1546,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2007-10,-2.3706,-3.2609,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2007-11,-3.3554,-4.9697,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2007-12,-2.2445,-3.8617,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 1,esankhyiki,sector,6,2008-01,-2.15,-3.6444,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-02,-1.6068,-4.3611,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-03,-2.7554,-6.1049,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-04,-2.1652,-5.9718,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-05,-2.0423,-5.7296,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-06,-2.111,-6.2515,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-07,-3.0321,-7.1234,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-08,-3.9791,-7.7131,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-09,-2.919,-7.9227,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-10,-4.208,-10.4639,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2008-11,-3.0828,-10.2501,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 1,esankhyiki,sector,6,2008-12,-3.2898,-9.7648,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 1,esankhyiki,sector,6,2009-01,-0.8873,-8.1107,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-02,0.8277,-5.1235,False,Manufacturing,Manufacturing,True,True,Mining,Manufacturing,0.3333,-0.5
+Pair 1,esankhyiki,sector,6,2009-03,2.8181,-0.9274,False,Manufacturing,Manufacturing,True,True,Mining,Manufacturing,0.3333,-1.0
+Pair 1,esankhyiki,sector,6,2009-04,5.0664,2.8871,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-05,6.2591,4.5587,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-06,8.193,6.3714,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-07,8.4014,8.2971,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-08,9.1072,9.0735,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-09,8.1638,8.3925,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-10,8.1605,9.4867,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-11,7.8353,10.5681,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2009-12,6.3722,9.6048,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-01,3.0168,7.3792,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-02,1.1425,4.883,True,Manufacturing,Manufacturing,True,True,Mining,Electricity,0.3333,0.5
+Pair 1,esankhyiki,sector,6,2010-03,-0.9249,1.9385,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 1,esankhyiki,sector,6,2010-04,-3.9204,-1.7604,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-05,-5.7694,-3.8246,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-06,-7.342,-4.5267,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-07,-6.3085,-4.0811,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-08,-7.8684,-3.9294,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-09,-7.188,-2.0268,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-10,-4.9381,-0.0149,True,Manufacturing,Mining,False,False,Manufacturing,Mining,0.3333,0.5
+Pair 1,esankhyiki,sector,6,2010-11,-5.4551,-0.7428,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,6,2010-12,-4.0581,-0.4331,True,Manufacturing,Mining,False,False,Manufacturing,Mining,0.0,0.5
+Pair 1,esankhyiki,sector,6,2011-01,-3.0038,-0.3204,True,Manufacturing,Mining,False,False,Manufacturing,Mining,0.0,0.5
+Pair 1,esankhyiki,sector,12,2007-04,-2.9994,2.8741,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2007-05,-3.7646,1.6345,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2007-06,-4.4492,-0.0318,True,Manufacturing,Electricity,False,True,Manufacturing,Electricity,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2007-07,-4.588,-1.7849,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 1,esankhyiki,sector,12,2007-08,-4.3988,-2.771,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 1,esankhyiki,sector,12,2007-09,-5.2178,-4.4625,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2007-10,-4.8405,-4.6809,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2007-11,-6.3607,-6.8043,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2007-12,-5.5096,-6.6772,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-01,-5.5433,-7.9149,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-02,-5.3663,-9.3786,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-03,-6.0025,-11.6435,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-04,-5.4545,-12.8342,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-05,-5.2614,-13.3395,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,0.5
+Pair 1,esankhyiki,sector,12,2008-06,-4.8781,-13.0647,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-07,-4.5507,-13.0009,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-08,-4.3686,-12.4554,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-09,-2.8876,-11.4389,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-10,-2.7573,-12.0063,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2008-11,-0.9744,-10.8356,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 1,esankhyiki,sector,12,2008-12,-0.2488,-9.7048,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-01,1.7974,-7.5238,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2009-02,3.3918,-4.4433,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2009-03,5.4405,-0.6926,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2009-04,7.0427,2.3985,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-05,8.6353,4.7177,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-06,9.7342,6.2915,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-07,9.4661,7.9314,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-08,10.0923,8.9533,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-09,9.1104,8.898,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-10,8.7336,10.0501,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.3333,1.0
+Pair 1,esankhyiki,sector,12,2009-11,8.0801,10.9352,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2009-12,6.7977,10.5272,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2010-01,4.0633,9.4872,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 1,esankhyiki,sector,12,2010-02,1.7619,7.4551,True,Manufacturing,Manufacturing,True,True,Mining,Electricity,0.0,0.5
+Pair 1,esankhyiki,sector,12,2010-03,-0.437,5.1214,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2010-04,-2.3092,2.9755,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2010-05,-4.5794,1.0881,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2010-06,-6.185,0.0592,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.3333,-0.5
+Pair 1,esankhyiki,sector,12,2010-07,-6.302,-0.5517,True,Manufacturing,Mining,False,False,Manufacturing,Mining,0.3333,0.5
+Pair 1,esankhyiki,use-based,6,2006-10,1.9209,2.7455,True,Capital Goods,Consumer Non-durables,False,False,Consumer Durables,Intermediate Goods,0.5,-0.6
+Pair 1,esankhyiki,use-based,6,2006-11,3.7628,4.1178,True,Consumer Non-durables,Consumer Non-durables,True,True,Consumer Durables,Intermediate Goods,0.5,0.1
+Pair 1,esankhyiki,use-based,6,2006-12,2.1845,2.5574,True,Consumer Non-durables,Consumer Non-durables,True,True,Consumer Durables,Intermediate Goods,0.5,0.8
+Pair 1,esankhyiki,use-based,6,2007-01,0.4835,2.9095,True,Capital Goods,Consumer Non-durables,False,False,Consumer Durables,Intermediate Goods,0.5,0.6
+Pair 1,esankhyiki,use-based,6,2007-02,-0.111,3.463,False,Consumer Durables,Consumer Non-durables,False,False,Consumer Durables,Intermediate Goods,0.25,0.7
+Pair 1,esankhyiki,use-based,6,2007-03,-0.5295,3.4891,False,Consumer Durables,Capital Goods,False,False,Consumer Durables,Intermediate Goods,0.25,0.6
+Pair 1,esankhyiki,use-based,6,2007-04,-2.7745,3.1318,False,Consumer Durables,Capital Goods,False,False,Consumer Durables,Intermediate Goods,0.75,0.1
+Pair 1,esankhyiki,use-based,6,2007-05,-3.9683,2.0604,False,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Consumer Non-durables,0.5,0.9
+Pair 1,esankhyiki,use-based,6,2007-06,-4.4192,0.6204,False,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Consumer Non-durables,0.5,0.3
+Pair 1,esankhyiki,use-based,6,2007-07,-3.7547,-1.4175,True,Consumer Non-durables,Consumer Non-durables,True,True,Consumer Non-durables,Consumer Non-durables,0.5,0.7
+Pair 1,esankhyiki,use-based,6,2007-08,-3.5399,-2.3219,True,Consumer Non-durables,Consumer Non-durables,True,True,Consumer Non-durables,Consumer Non-durables,0.5,0.7
+Pair 1,esankhyiki,use-based,6,2007-09,-3.5754,-3.1546,True,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Consumer Non-durables,0.25,0.2
+Pair 1,esankhyiki,use-based,6,2007-10,-2.3706,-3.2609,True,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Consumer Non-durables,0.5,0.3
+Pair 1,esankhyiki,use-based,6,2007-11,-3.3554,-4.9697,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,0.4
+Pair 1,esankhyiki,use-based,6,2007-12,-2.2445,-3.8617,True,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Consumer Non-durables,0.25,-0.1
+Pair 1,esankhyiki,use-based,6,2008-01,-2.15,-3.6444,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,-0.2
+Pair 1,esankhyiki,use-based,6,2008-02,-1.6068,-4.3611,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.5,-0.1
+Pair 1,esankhyiki,use-based,6,2008-03,-2.7554,-6.1049,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,-0.1
+Pair 1,esankhyiki,use-based,6,2008-04,-2.1652,-5.9718,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,-0.3
+Pair 1,esankhyiki,use-based,6,2008-05,-2.0423,-5.7296,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.25,-0.3
+Pair 1,esankhyiki,use-based,6,2008-06,-2.111,-6.2515,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.5,-0.9
+Pair 1,esankhyiki,use-based,6,2008-07,-3.0321,-7.1234,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.25,-0.8
+Pair 1,esankhyiki,use-based,6,2008-08,-3.9791,-7.7131,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.0,-0.6
+Pair 1,esankhyiki,use-based,6,2008-09,-2.919,-7.9227,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.0,-0.7
+Pair 1,esankhyiki,use-based,6,2008-10,-4.208,-10.4639,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.0,-0.3
+Pair 1,esankhyiki,use-based,6,2008-11,-3.0828,-10.2501,True,Capital Goods,Capital Goods,True,True,Capital Goods,Capital Goods,0.0,0.4
+Pair 1,esankhyiki,use-based,6,2008-12,-3.2898,-9.7648,True,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.5,0.5
+Pair 1,esankhyiki,use-based,6,2009-01,-0.8873,-8.1107,True,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.5,0.6
+Pair 1,esankhyiki,use-based,6,2009-02,0.8277,-5.1235,False,Intermediate Goods,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.0,0.6
+Pair 1,esankhyiki,use-based,6,2009-03,2.8181,-0.9274,False,Intermediate Goods,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.0,0.6
+Pair 1,esankhyiki,use-based,6,2009-04,5.0664,2.8871,True,Intermediate Goods,Consumer Non-durables,False,False,Consumer Non-durables,Capital Goods,0.5,-0.3
+Pair 1,esankhyiki,use-based,6,2009-05,6.2591,4.5587,True,Intermediate Goods,Consumer Non-durables,False,False,Consumer Non-durables,Capital Goods,0.25,-0.3
+Pair 1,esankhyiki,use-based,6,2009-06,8.193,6.3714,True,Intermediate Goods,Consumer Non-durables,False,False,Consumer Non-durables,Capital Goods,0.0,-0.4
+Pair 1,esankhyiki,use-based,6,2009-07,8.4014,8.2971,True,Intermediate Goods,Consumer Non-durables,False,False,Consumer Durables,Intermediate Goods,0.0,0.1
+Pair 1,esankhyiki,use-based,6,2009-08,9.1072,9.0735,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.0,0.7
+Pair 1,esankhyiki,use-based,6,2009-09,8.1638,8.3925,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Consumer Non-durables,0.0,0.8
+Pair 1,esankhyiki,use-based,6,2009-10,8.1605,9.4867,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Consumer Non-durables,0.0,0.7
+Pair 1,esankhyiki,use-based,6,2009-11,7.8353,10.5681,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Consumer Non-durables,0.25,0.7
+Pair 1,esankhyiki,use-based,6,2009-12,6.3722,9.6048,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Consumer Non-durables,0.25,0.7
+Pair 1,esankhyiki,use-based,6,2010-01,3.0168,7.3792,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.5,0.8
+Pair 1,esankhyiki,use-based,6,2010-02,1.1425,4.883,True,Capital Goods,Capital Goods,True,True,Intermediate Goods,Consumer Durables,0.75,0.3
+Pair 1,esankhyiki,use-based,6,2010-03,-0.9249,1.9385,False,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Consumer Durables,0.5,0.7
+Pair 1,esankhyiki,use-based,6,2010-04,-3.9204,-1.7604,True,Capital Goods,Consumer Durables,False,False,Capital Goods,Consumer Durables,0.5,-0.4
+Pair 1,esankhyiki,use-based,6,2010-05,-5.7694,-3.8246,True,Capital Goods,Consumer Durables,False,False,Capital Goods,Consumer Durables,0.25,0.3
+Pair 1,esankhyiki,use-based,6,2010-06,-7.342,-4.5267,True,Capital Goods,Consumer Durables,False,False,Capital Goods,Consumer Durables,0.25,0.3
+Pair 1,esankhyiki,use-based,6,2010-07,-6.3085,-4.0811,True,Capital Goods,Consumer Durables,False,False,Capital Goods,Consumer Durables,0.0,-0.6
+Pair 1,esankhyiki,use-based,6,2010-08,-7.8684,-3.9294,True,Capital Goods,Capital Goods,True,True,Capital Goods,Capital Goods,0.0,0.5
+Pair 1,esankhyiki,use-based,6,2010-09,-7.188,-2.0268,True,Capital Goods,Capital Goods,True,True,Capital Goods,Capital Goods,0.0,0.9
+Pair 1,esankhyiki,use-based,6,2010-10,-4.9381,-0.0149,True,Capital Goods,Consumer Durables,False,False,Capital Goods,Consumer Durables,0.0,0.6
+Pair 1,esankhyiki,use-based,6,2010-11,-5.4551,-0.7428,True,Capital Goods,Consumer Durables,False,False,Capital Goods,Consumer Durables,0.0,0.6
+Pair 1,esankhyiki,use-based,6,2010-12,-4.0581,-0.4331,True,Capital Goods,Capital Goods,True,True,Capital Goods,Capital Goods,0.0,0.9
+Pair 1,esankhyiki,use-based,6,2011-01,-3.0038,-0.3204,True,Capital Goods,Capital Goods,True,True,Capital Goods,Capital Goods,0.0,1.0
+Pair 1,esankhyiki,use-based,12,2007-04,-2.9994,2.8741,False,Consumer Durables,Capital Goods,False,False,Consumer Durables,Intermediate Goods,0.5,0.2
+Pair 1,esankhyiki,use-based,12,2007-05,-3.7646,1.6345,False,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Consumer Non-durables,0.5,0.3
+Pair 1,esankhyiki,use-based,12,2007-06,-4.4492,-0.0318,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.5,0.7
+Pair 1,esankhyiki,use-based,12,2007-07,-4.588,-1.7849,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.5,0.6
+Pair 1,esankhyiki,use-based,12,2007-08,-4.3988,-2.771,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.5,0.6
+Pair 1,esankhyiki,use-based,12,2007-09,-5.2178,-4.4625,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.5,0.2
+Pair 1,esankhyiki,use-based,12,2007-10,-4.8405,-4.6809,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,0.1
+Pair 1,esankhyiki,use-based,12,2007-11,-6.3607,-6.8043,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.5,0.1
+Pair 1,esankhyiki,use-based,12,2007-12,-5.5096,-6.6772,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,0.1
+Pair 1,esankhyiki,use-based,12,2008-01,-5.5433,-7.9149,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,0.1
+Pair 1,esankhyiki,use-based,12,2008-02,-5.3663,-9.3786,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,-0.3
+Pair 1,esankhyiki,use-based,12,2008-03,-6.0025,-11.6435,True,Intermediate Goods,Consumer Non-durables,False,False,Intermediate Goods,Consumer Non-durables,0.25,-0.1
+Pair 1,esankhyiki,use-based,12,2008-04,-5.4545,-12.8342,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.25,-0.1
+Pair 1,esankhyiki,use-based,12,2008-05,-5.2614,-13.3395,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.25,0.0
+Pair 1,esankhyiki,use-based,12,2008-06,-4.8781,-13.0647,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.25,-0.1
+Pair 1,esankhyiki,use-based,12,2008-07,-4.5507,-13.0009,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.25,-0.5
+Pair 1,esankhyiki,use-based,12,2008-08,-4.3686,-12.4554,True,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Capital Goods,0.25,-0.4
+Pair 1,esankhyiki,use-based,12,2008-09,-2.8876,-11.4389,True,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.25,-0.6
+Pair 1,esankhyiki,use-based,12,2008-10,-2.7573,-12.0063,True,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.25,-0.2
+Pair 1,esankhyiki,use-based,12,2008-11,-0.9744,-10.8356,True,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.5,0.0
+Pair 1,esankhyiki,use-based,12,2008-12,-0.2488,-9.7048,True,Consumer Non-durables,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.5,0.5
+Pair 1,esankhyiki,use-based,12,2009-01,1.7974,-7.5238,False,Intermediate Goods,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.5,0.5
+Pair 1,esankhyiki,use-based,12,2009-02,3.3918,-4.4433,False,Intermediate Goods,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.5,0.6
+Pair 1,esankhyiki,use-based,12,2009-03,5.4405,-0.6926,False,Intermediate Goods,Capital Goods,False,False,Consumer Non-durables,Capital Goods,0.5,0.5
+Pair 1,esankhyiki,use-based,12,2009-04,7.0427,2.3985,True,Intermediate Goods,Consumer Non-durables,False,False,Consumer Non-durables,Capital Goods,0.5,-0.7
+Pair 1,esankhyiki,use-based,12,2009-05,8.6353,4.7177,True,Intermediate Goods,Consumer Non-durables,False,False,Consumer Non-durables,Capital Goods,0.5,-0.9
+Pair 1,esankhyiki,use-based,12,2009-06,9.7342,6.2915,True,Intermediate Goods,Consumer Non-durables,False,False,Consumer Non-durables,Capital Goods,0.25,-0.9
+Pair 1,esankhyiki,use-based,12,2009-07,9.4661,7.9314,True,Intermediate Goods,Consumer Durables,False,False,Consumer Non-durables,Capital Goods,0.0,-0.3
+Pair 1,esankhyiki,use-based,12,2009-08,10.0923,8.9533,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.25,0.5
+Pair 1,esankhyiki,use-based,12,2009-09,9.1104,8.898,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.25,0.5
+Pair 1,esankhyiki,use-based,12,2009-10,8.7336,10.0501,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.25,0.3
+Pair 1,esankhyiki,use-based,12,2009-11,8.0801,10.9352,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.25,0.4
+Pair 1,esankhyiki,use-based,12,2009-12,6.7977,10.5272,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.25,0.3
+Pair 1,esankhyiki,use-based,12,2010-01,4.0633,9.4872,True,Capital Goods,Capital Goods,True,True,Consumer Non-durables,Intermediate Goods,0.25,0.3
+Pair 1,esankhyiki,use-based,12,2010-02,1.7619,7.4551,True,Capital Goods,Capital Goods,True,True,Intermediate Goods,Consumer Durables,0.25,0.3
+Pair 1,esankhyiki,use-based,12,2010-03,-0.437,5.1214,False,Intermediate Goods,Capital Goods,False,False,Intermediate Goods,Consumer Durables,0.75,0.0
+Pair 1,esankhyiki,use-based,12,2010-04,-2.3092,2.9755,False,Capital Goods,Capital Goods,True,True,Capital Goods,Consumer Durables,0.5,-0.3
+Pair 1,esankhyiki,use-based,12,2010-05,-4.5794,1.0881,False,Capital Goods,Capital Goods,True,True,Capital Goods,Consumer Durables,0.25,-0.5
+Pair 1,esankhyiki,use-based,12,2010-06,-6.185,0.0592,False,Capital Goods,Capital Goods,True,False,Capital Goods,Consumer Durables,0.5,-0.3
+Pair 1,esankhyiki,use-based,12,2010-07,-6.302,-0.5517,True,Capital Goods,Consumer Durables,False,False,Capital Goods,Consumer Durables,0.5,-0.2
+Pair 2,esankhyiki,sector,6,2013-10,-1.0867,0.7275,False,Manufacturing,Mining,False,False,Manufacturing,Manufacturing,0.3333,1.0
+Pair 2,esankhyiki,sector,6,2013-11,0.1662,1.2883,True,Mining,Mining,True,False,Manufacturing,Manufacturing,0.3333,1.0
+Pair 2,esankhyiki,sector,6,2013-12,1.1214,1.0124,True,Manufacturing,Mining,False,False,Electricity,Manufacturing,0.0,-0.5
+Pair 2,esankhyiki,sector,6,2014-01,1.4943,1.0488,True,Manufacturing,Electricity,False,False,Mining,Manufacturing,0.0,-0.5
+Pair 2,esankhyiki,sector,6,2014-02,1.7124,0.8958,True,Manufacturing,Electricity,False,False,Mining,Mining,0.0,0.5
+Pair 2,esankhyiki,sector,6,2014-03,2.526,0.4788,True,Manufacturing,Electricity,False,False,Mining,Mining,0.6667,0.5
+Pair 2,esankhyiki,sector,6,2014-04,3.558,1.3615,True,Manufacturing,Electricity,False,False,Mining,Mining,0.3333,0.5
+Pair 2,esankhyiki,sector,6,2014-05,1.6803,0.4307,True,Manufacturing,Electricity,False,False,Mining,Mining,0.3333,0.5
+Pair 2,esankhyiki,sector,6,2014-06,0.4576,0.6954,True,Electricity,Electricity,True,True,Mining,Mining,0.3333,1.0
+Pair 2,esankhyiki,sector,6,2014-07,-0.3648,-0.816,True,Manufacturing,Mining,False,False,Manufacturing,Mining,0.0,0.5
+Pair 2,esankhyiki,sector,6,2014-08,-0.0218,-1.541,True,Electricity,Manufacturing,False,True,Electricity,Manufacturing,0.3333,-1.0
+Pair 2,esankhyiki,sector,6,2014-09,0.2869,-1.3525,False,Manufacturing,Mining,False,False,Electricity,Mining,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2014-10,-0.2322,-1.9004,True,Electricity,Manufacturing,False,False,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2014-11,1.7747,-1.2358,False,Manufacturing,Electricity,False,False,Electricity,Electricity,0.3333,1.0
+Pair 2,esankhyiki,sector,6,2014-12,1.3949,-2.6027,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2015-01,1.6314,-2.3761,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2015-02,1.5675,-1.851,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.6667,-0.5
+Pair 2,esankhyiki,sector,6,2015-03,1.089,-1.6422,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2015-04,1.31,-1.3573,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2015-05,1.5096,-0.0351,False,Manufacturing,Manufacturing,True,False,Mining,Manufacturing,0.6667,-1.0
+Pair 2,esankhyiki,sector,6,2015-06,0.9772,0.7281,True,Manufacturing,Mining,False,False,Electricity,Electricity,0.6667,0.5
+Pair 2,esankhyiki,sector,6,2015-07,0.0043,1.5755,True,Electricity,Mining,False,False,Manufacturing,Electricity,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2015-08,-1.234,2.1203,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.3333,-1.0
+Pair 2,esankhyiki,sector,6,2015-09,-2.1966,2.5837,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.3333,-1.0
+Pair 2,esankhyiki,sector,6,2015-10,-2.974,3.1172,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.3333,-1.0
+Pair 2,esankhyiki,sector,6,2015-11,-5.988,1.2333,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,6,2015-12,-4.2329,2.4835,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.6667,-0.5
+Pair 2,esankhyiki,sector,6,2016-01,-2.8582,2.9486,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.6667,-0.5
+Pair 2,esankhyiki,sector,6,2016-02,-2.0319,2.5639,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.6667,-0.5
+Pair 2,esankhyiki,sector,6,2016-03,-1.7562,1.4547,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.6667,-0.5
+Pair 2,esankhyiki,sector,6,2016-04,-1.1147,0.9153,False,Manufacturing,Manufacturing,True,True,Manufacturing,Mining,0.6667,-0.5
+Pair 2,esankhyiki,sector,6,2016-05,0.6681,1.1135,True,Manufacturing,Manufacturing,True,True,Electricity,Mining,0.0,0.5
+Pair 2,esankhyiki,sector,6,2016-06,0.6118,-0.3516,False,Manufacturing,Mining,False,False,Electricity,Mining,0.0,0.5
+Pair 2,esankhyiki,sector,6,2016-07,-0.2838,-2.1162,True,Electricity,Manufacturing,False,False,Electricity,Manufacturing,0.3333,-1.0
+Pair 2,esankhyiki,sector,6,2016-08,0.8654,-2.3475,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2016-09,1.2343,-2.2907,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,6,2016-10,1.5952,-2.3514,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,12,2014-04,2.8985,0.775,True,Manufacturing,Electricity,False,False,Mining,Mining,0.3333,0.5
+Pair 2,esankhyiki,sector,12,2014-05,2.6507,0.4569,True,Manufacturing,Electricity,False,False,Electricity,Mining,0.3333,-0.5
+Pair 2,esankhyiki,sector,12,2014-06,1.7157,-0.0997,False,Manufacturing,Mining,False,False,Mining,Mining,0.6667,0.5
+Pair 2,esankhyiki,sector,12,2014-07,1.198,-1.4797,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2014-08,1.6182,-2.0186,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-1.0
+Pair 2,esankhyiki,sector,12,2014-09,2.0944,-1.9342,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-1.0
+Pair 2,esankhyiki,sector,12,2014-10,2.2018,-1.8983,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.6667,-0.5
+Pair 2,esankhyiki,sector,12,2014-11,3.3697,-1.038,False,Manufacturing,Electricity,False,False,Electricity,Electricity,0.3333,0.5
+Pair 2,esankhyiki,sector,12,2014-12,2.1123,-1.891,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,12,2015-01,1.4511,-1.9963,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.6667,-0.5
+Pair 2,esankhyiki,sector,12,2015-02,0.9396,-1.5613,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,12,2015-03,0.1342,-1.0266,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 2,esankhyiki,sector,12,2015-04,-0.2931,-0.7489,True,Electricity,Electricity,True,True,Electricity,Electricity,0.0,1.0
+Pair 2,esankhyiki,sector,12,2015-05,-0.597,-0.0364,True,Manufacturing,Electricity,False,False,Manufacturing,Electricity,0.0,0.5
+Pair 2,esankhyiki,sector,12,2015-06,-0.4418,0.6685,False,Manufacturing,Mining,False,False,Manufacturing,Electricity,0.3333,0.5
+Pair 2,esankhyiki,sector,12,2015-07,-0.6091,1.8618,False,Manufacturing,Mining,False,False,Manufacturing,Electricity,0.6667,0.5
+Pair 2,esankhyiki,sector,12,2015-08,-1.4662,2.4768,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2015-09,-2.5302,2.4899,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2015-10,-2.8764,2.8962,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,1.0,-1.0
+Pair 2,esankhyiki,sector,12,2015-11,-4.8991,1.7724,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2015-12,-3.4384,2.6718,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2016-01,-2.998,2.6783,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2016-02,-2.2162,2.4503,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2016-03,-2.2374,1.6012,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,0.6667,-1.0
+Pair 2,esankhyiki,sector,12,2016-04,-1.8041,1.2982,False,Manufacturing,Manufacturing,True,True,Manufacturing,Electricity,1.0,-0.5
+Pair 2,esankhyiki,use-based,6,2013-10,-1.0867,0.7275,False,Consumer Non-durables,Consumer Durables,False,False,Consumer Non-durables,Consumer Non-durables,0.5,0.5
+Pair 2,esankhyiki,use-based,6,2013-11,0.1662,1.2883,True,Intermediate Goods,Consumer Durables,False,True,Consumer Non-durables,Consumer Non-durables,0.25,0.9
+Pair 2,esankhyiki,use-based,6,2013-12,1.1214,1.0124,True,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Consumer Non-durables,0.0,0.9
+Pair 2,esankhyiki,use-based,6,2014-01,1.4943,1.0488,True,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Consumer Non-durables,0.75,0.7
+Pair 2,esankhyiki,use-based,6,2014-02,1.7124,0.8958,True,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Consumer Durables,0.5,0.3
+Pair 2,esankhyiki,use-based,6,2014-03,2.526,0.4788,True,Capital Goods,Intermediate Goods,False,False,Intermediate Goods,Consumer Durables,0.75,-0.3
+Pair 2,esankhyiki,use-based,6,2014-04,3.558,1.3615,True,Capital Goods,Intermediate Goods,False,False,Intermediate Goods,Consumer Durables,0.75,-0.1
+Pair 2,esankhyiki,use-based,6,2014-05,1.6803,0.4307,True,Capital Goods,Capital Goods,True,False,Consumer Durables,Consumer Durables,0.25,0.9
+Pair 2,esankhyiki,use-based,6,2014-06,0.4576,0.6954,True,Capital Goods,Capital Goods,True,False,Consumer Durables,Consumer Durables,0.25,1.0
+Pair 2,esankhyiki,use-based,6,2014-07,-0.3648,-0.816,True,Consumer Durables,Intermediate Goods,False,False,Consumer Durables,Intermediate Goods,0.0,0.2
+Pair 2,esankhyiki,use-based,6,2014-08,-0.0218,-1.541,True,Consumer Durables,Intermediate Goods,False,False,Consumer Durables,Intermediate Goods,0.0,0.8
+Pair 2,esankhyiki,use-based,6,2014-09,0.2869,-1.3525,False,Capital Goods,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.0,0.6
+Pair 2,esankhyiki,use-based,6,2014-10,-0.2322,-1.9004,True,Intermediate Goods,Intermediate Goods,True,False,Intermediate Goods,Intermediate Goods,0.5,0.5
+Pair 2,esankhyiki,use-based,6,2014-11,1.7747,-1.2358,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.25,0.7
+Pair 2,esankhyiki,use-based,6,2014-12,1.3949,-2.6027,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.25,0.6
+Pair 2,esankhyiki,use-based,6,2015-01,1.6314,-2.3761,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.5,0.6
+Pair 2,esankhyiki,use-based,6,2015-02,1.5675,-1.851,False,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Intermediate Goods,0.25,0.3
+Pair 2,esankhyiki,use-based,6,2015-03,1.089,-1.6422,False,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Intermediate Goods,0.25,0.4
+Pair 2,esankhyiki,use-based,6,2015-04,1.31,-1.3573,False,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Intermediate Goods,0.25,0.6
+Pair 2,esankhyiki,use-based,6,2015-05,1.5096,-0.0351,False,Consumer Durables,Consumer Non-durables,False,False,Consumer Non-durables,Consumer Non-durables,0.25,0.3
+Pair 2,esankhyiki,use-based,6,2015-06,0.9772,0.7281,True,Consumer Durables,Consumer Durables,True,False,Consumer Non-durables,Consumer Non-durables,0.5,0.3
+Pair 2,esankhyiki,use-based,6,2015-07,0.0043,1.5755,True,Consumer Durables,Capital Goods,False,False,Consumer Non-durables,Consumer Non-durables,0.25,0.1
+Pair 2,esankhyiki,use-based,6,2015-08,-1.234,2.1203,False,Capital Goods,Capital Goods,True,False,Capital Goods,Consumer Durables,0.5,-0.9
+Pair 2,esankhyiki,use-based,6,2015-09,-2.1966,2.5837,False,Capital Goods,Capital Goods,True,True,Capital Goods,Consumer Durables,0.5,-0.9
+Pair 2,esankhyiki,use-based,6,2015-10,-2.974,3.1172,False,Capital Goods,Capital Goods,True,True,Capital Goods,Consumer Durables,0.5,-0.9
+Pair 2,esankhyiki,use-based,6,2015-11,-5.988,1.2333,False,Capital Goods,Capital Goods,True,True,Capital Goods,Consumer Durables,0.5,-0.6
+Pair 2,esankhyiki,use-based,6,2015-12,-4.2329,2.4835,False,Capital Goods,Intermediate Goods,False,False,Capital Goods,Consumer Non-durables,0.75,0.5
+Pair 2,esankhyiki,use-based,6,2016-01,-2.8582,2.9486,False,Capital Goods,Intermediate Goods,False,False,Capital Goods,Consumer Non-durables,0.75,0.7
+Pair 2,esankhyiki,use-based,6,2016-02,-2.0319,2.5639,False,Capital Goods,Intermediate Goods,False,False,Capital Goods,Capital Goods,0.75,0.9
+Pair 2,esankhyiki,use-based,6,2016-03,-1.7562,1.4547,False,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Capital Goods,0.5,0.9
+Pair 2,esankhyiki,use-based,6,2016-04,-1.1147,0.9153,False,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Capital Goods,0.25,-0.1
+Pair 2,esankhyiki,use-based,6,2016-05,0.6681,1.1135,True,Consumer Non-durables,Consumer Non-durables,True,True,Consumer Durables,Capital Goods,0.25,0.3
+Pair 2,esankhyiki,use-based,6,2016-06,0.6118,-0.3516,False,Consumer Non-durables,Capital Goods,False,True,Consumer Durables,Capital Goods,0.0,0.3
+Pair 2,esankhyiki,use-based,6,2016-07,-0.2838,-2.1162,True,Consumer Durables,Capital Goods,False,False,Consumer Durables,Capital Goods,0.25,0.2
+Pair 2,esankhyiki,use-based,6,2016-08,0.8654,-2.3475,False,Capital Goods,Capital Goods,True,True,Consumer Durables,Capital Goods,0.25,-0.1
+Pair 2,esankhyiki,use-based,6,2016-09,1.2343,-2.2907,False,Capital Goods,Capital Goods,True,True,Intermediate Goods,Capital Goods,0.5,-0.6
+Pair 2,esankhyiki,use-based,6,2016-10,1.5952,-2.3514,False,Capital Goods,Consumer Durables,False,False,Consumer Durables,Consumer Durables,0.5,0.3
+Pair 2,esankhyiki,use-based,12,2014-04,2.8985,0.775,True,Capital Goods,Intermediate Goods,False,False,Consumer Non-durables,Consumer Durables,0.75,0.5
+Pair 2,esankhyiki,use-based,12,2014-05,2.6507,0.4569,True,Capital Goods,Capital Goods,True,True,Intermediate Goods,Consumer Durables,0.5,0.6
+Pair 2,esankhyiki,use-based,12,2014-06,1.7157,-0.0997,False,Capital Goods,Consumer Durables,False,False,Intermediate Goods,Consumer Durables,0.25,0.3
+Pair 2,esankhyiki,use-based,12,2014-07,1.198,-1.4797,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.5,-0.4
+Pair 2,esankhyiki,use-based,12,2014-08,1.6182,-2.0186,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.25,0.3
+Pair 2,esankhyiki,use-based,12,2014-09,2.0944,-1.9342,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.25,0.3
+Pair 2,esankhyiki,use-based,12,2014-10,2.2018,-1.8983,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.75,0.1
+Pair 2,esankhyiki,use-based,12,2014-11,3.3697,-1.038,False,Consumer Durables,Intermediate Goods,False,False,Intermediate Goods,Intermediate Goods,0.25,0.5
+Pair 2,esankhyiki,use-based,12,2014-12,2.1123,-1.891,False,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Intermediate Goods,0.5,0.5
+Pair 2,esankhyiki,use-based,12,2015-01,1.4511,-1.9963,False,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Intermediate Goods,0.5,0.5
+Pair 2,esankhyiki,use-based,12,2015-02,0.9396,-1.5613,False,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Intermediate Goods,1.0,0.2
+Pair 2,esankhyiki,use-based,12,2015-03,0.1342,-1.0266,False,Consumer Durables,Intermediate Goods,False,False,Consumer Non-durables,Intermediate Goods,1.0,-0.1
+Pair 2,esankhyiki,use-based,12,2015-04,-0.2931,-0.7489,True,Capital Goods,Intermediate Goods,False,False,Capital Goods,Intermediate Goods,0.75,-0.6
+Pair 2,esankhyiki,use-based,12,2015-05,-0.597,-0.0364,True,Capital Goods,Intermediate Goods,False,False,Capital Goods,Intermediate Goods,0.5,-0.3
+Pair 2,esankhyiki,use-based,12,2015-06,-0.4418,0.6685,False,Capital Goods,Capital Goods,True,False,Capital Goods,Intermediate Goods,0.5,-0.6
+Pair 2,esankhyiki,use-based,12,2015-07,-0.6091,1.8618,False,Capital Goods,Capital Goods,True,False,Capital Goods,Intermediate Goods,0.5,-0.3
+Pair 2,esankhyiki,use-based,12,2015-08,-1.4662,2.4768,False,Capital Goods,Capital Goods,True,False,Capital Goods,Intermediate Goods,0.75,-0.8
+Pair 2,esankhyiki,use-based,12,2015-09,-2.5302,2.4899,False,Capital Goods,Capital Goods,True,True,Capital Goods,Intermediate Goods,0.5,-0.6
+Pair 2,esankhyiki,use-based,12,2015-10,-2.8764,2.8962,False,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Intermediate Goods,0.5,-0.6
+Pair 2,esankhyiki,use-based,12,2015-11,-4.8991,1.7724,False,Capital Goods,Capital Goods,True,True,Capital Goods,Consumer Durables,0.5,-0.7
+Pair 2,esankhyiki,use-based,12,2015-12,-3.4384,2.6718,False,Capital Goods,Intermediate Goods,False,False,Capital Goods,Capital Goods,0.5,0.6
+Pair 2,esankhyiki,use-based,12,2016-01,-2.998,2.6783,False,Capital Goods,Intermediate Goods,False,False,Capital Goods,Capital Goods,0.75,1.0
+Pair 2,esankhyiki,use-based,12,2016-02,-2.2162,2.4503,False,Capital Goods,Intermediate Goods,False,False,Capital Goods,Capital Goods,0.5,0.9
+Pair 2,esankhyiki,use-based,12,2016-03,-2.2374,1.6012,False,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Capital Goods,0.5,0.9
+Pair 2,esankhyiki,use-based,12,2016-04,-1.8041,1.2982,False,Capital Goods,Consumer Non-durables,False,False,Capital Goods,Consumer Durables,0.75,0.5
+Pair 3,esankhyiki,sector,6,2024-10,-0.0475,-0.5712,True,Electricity,Electricity,True,False,Electricity,Electricity,0.0,1.0
+Pair 3,esankhyiki,sector,6,2024-11,0.0029,-0.4625,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.3333,-0.5
+Pair 3,esankhyiki,sector,6,2024-12,-0.2967,-0.6599,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 3,esankhyiki,sector,6,2025-01,-0.468,-1.1265,True,Manufacturing,Manufacturing,True,True,Manufacturing,Manufacturing,0.3333,1.0
+Pair 3,esankhyiki,sector,6,2025-02,-0.6628,-1.0313,True,Mining,Manufacturing,False,False,Mining,Manufacturing,0.3333,-0.5
+Pair 3,esankhyiki,sector,6,2025-03,-0.8948,-0.8815,True,Mining,Manufacturing,False,False,Mining,Manufacturing,0.3333,-0.5
+Pair 3,esankhyiki,sector,6,2025-04,-0.897,-1.0188,True,Mining,Manufacturing,False,False,Mining,Manufacturing,0.3333,-1.0
+Pair 3,esankhyiki,sector,6,2025-05,-1.043,-1.8411,True,Mining,Manufacturing,False,False,Mining,Manufacturing,0.3333,-1.0
+Pair 3,esankhyiki,sector,6,2025-06,0.3518,-0.8068,False,Manufacturing,Manufacturing,True,True,Mining,Manufacturing,0.6667,-1.0
+Pair 3,esankhyiki,sector,6,2025-07,1.8075,0.5985,True,Manufacturing,Mining,False,False,Electricity,Electricity,0.0,0.5
+Pair 3,esankhyiki,sector,6,2025-08,2.1075,0.5383,True,Manufacturing,Manufacturing,True,True,Electricity,Electricity,0.0,1.0
+Pair 3,esankhyiki,sector,6,2025-09,2.0611,0.2044,True,Manufacturing,Manufacturing,True,True,Electricity,Mining,0.3333,0.5
+Pair 3,esankhyiki,sector,6,2025-10,1.8659,-0.3602,False,Manufacturing,Mining,False,False,Electricity,Mining,0.3333,0.5
+Pair 3,esankhyiki,sector,12,2025-04,0.0122,-1.4845,False,Manufacturing,Manufacturing,True,True,Electricity,Manufacturing,0.6667,-0.5
+Pair 3,esankhyiki,use-based,6,2024-10,-0.0475,-0.5712,True,Consumer Durables,Consumer Durables,True,False,Consumer Durables,Consumer Durables,0.0,0.7
+Pair 3,esankhyiki,use-based,6,2024-11,0.0029,-0.4625,False,Capital Goods,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.25,0.8
+Pair 3,esankhyiki,use-based,6,2024-12,-0.2967,-0.6599,True,Consumer Non-durables,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.0,0.8
+Pair 3,esankhyiki,use-based,6,2025-01,-0.468,-1.1265,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.25,0.7
+Pair 3,esankhyiki,use-based,6,2025-02,-0.6628,-1.0313,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.0,0.6
+Pair 3,esankhyiki,use-based,6,2025-03,-0.8948,-0.8815,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.25,0.0
+Pair 3,esankhyiki,use-based,6,2025-04,-0.897,-1.0188,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.75,-0.1
+Pair 3,esankhyiki,use-based,6,2025-05,-1.043,-1.8411,True,Consumer Durables,Intermediate Goods,False,False,Consumer Durables,Intermediate Goods,0.5,-0.7
+Pair 3,esankhyiki,use-based,6,2025-06,0.3518,-0.8068,False,Consumer Non-durables,Consumer Non-durables,True,True,Capital Goods,Consumer Non-durables,0.75,-0.7
+Pair 3,esankhyiki,use-based,6,2025-07,1.8075,0.5985,True,Consumer Non-durables,Capital Goods,False,True,Capital Goods,Consumer Non-durables,0.75,0.0
+Pair 3,esankhyiki,use-based,6,2025-08,2.1075,0.5383,True,Consumer Non-durables,Intermediate Goods,False,True,Capital Goods,Consumer Non-durables,0.5,0.1
+Pair 3,esankhyiki,use-based,6,2025-09,2.0611,0.2044,True,Consumer Non-durables,Capital Goods,False,True,Capital Goods,Consumer Non-durables,0.25,-0.9
+Pair 3,esankhyiki,use-based,6,2025-10,1.8659,-0.3602,False,Consumer Non-durables,Consumer Non-durables,True,False,Intermediate Goods,Consumer Non-durables,0.25,-0.9
+Pair 3,esankhyiki,use-based,12,2025-04,0.0122,-1.4845,False,Intermediate Goods,Consumer Durables,False,False,Consumer Durables,Consumer Durables,0.5,0.6
+Pair 3,esankhyiki,use-based (6 categories),6,2024-10,-0.0475,-0.5712,True,Primary Goods,Primary Goods,True,True,Primary Goods,Primary Goods,0.0,0.9429
+Pair 3,esankhyiki,use-based (6 categories),6,2024-11,0.0029,-0.4625,False,Infrastructure/ Construction Goods,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.1667,0.7143
+Pair 3,esankhyiki,use-based (6 categories),6,2024-12,-0.2967,-0.6599,True,Consumer Non-durables,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.0,0.8857
+Pair 3,esankhyiki,use-based (6 categories),6,2025-01,-0.468,-1.1265,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.1667,0.8857
+Pair 3,esankhyiki,use-based (6 categories),6,2025-02,-0.6628,-1.0313,True,Primary Goods,Consumer Durables,False,False,Primary Goods,Consumer Durables,0.0,0.8286
+Pair 3,esankhyiki,use-based (6 categories),6,2025-03,-0.8948,-0.8815,True,Primary Goods,Consumer Durables,False,False,Primary Goods,Consumer Durables,0.1667,0.7714
+Pair 3,esankhyiki,use-based (6 categories),6,2025-04,-0.897,-1.0188,True,Primary Goods,Consumer Durables,False,False,Primary Goods,Consumer Durables,0.5,0.3714
+Pair 3,esankhyiki,use-based (6 categories),6,2025-05,-1.043,-1.8411,True,Primary Goods,Intermediate Goods,False,False,Primary Goods,Intermediate Goods,0.5,0.0286
+Pair 3,esankhyiki,use-based (6 categories),6,2025-06,0.3518,-0.8068,False,Infrastructure/ Construction Goods,Consumer Non-durables,False,False,Primary Goods,Consumer Non-durables,0.6667,-0.3714
+Pair 3,esankhyiki,use-based (6 categories),6,2025-07,1.8075,0.5985,True,Infrastructure/ Construction Goods,Primary Goods,False,False,Capital Goods,Consumer Non-durables,0.5,-0.3143
+Pair 3,june2026,use-based,6,2024-10,-0.0475,-0.4891,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.25,0.5
+Pair 3,june2026,use-based,6,2024-11,0.0029,-0.3789,False,Capital Goods,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.0,0.8
+Pair 3,june2026,use-based,6,2024-12,-0.2967,-0.5649,True,Consumer Non-durables,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.0,0.9
+Pair 3,june2026,use-based,6,2025-01,-0.468,-0.7592,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.25,0.7
+Pair 3,june2026,use-based,6,2025-02,-0.6628,-1.0168,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.0,0.7
+Pair 3,june2026,use-based,6,2025-03,-0.8948,-1.1126,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.25,0.6
+Pair 3,june2026,use-based,6,2025-04,-0.897,-1.5347,True,Consumer Durables,Intermediate Goods,False,False,Consumer Durables,Intermediate Goods,0.75,0.3
+Pair 3,june2026,use-based,6,2025-05,-1.043,-2.4268,True,Consumer Durables,Intermediate Goods,False,False,Consumer Durables,Intermediate Goods,0.5,-0.7
+Pair 3,june2026,use-based,6,2025-06,0.3518,-1.839,False,Consumer Non-durables,Consumer Non-durables,True,True,Capital Goods,Consumer Non-durables,0.75,-0.7
+Pair 3,june2026,use-based,6,2025-07,1.8075,-0.8938,False,Consumer Non-durables,Consumer Non-durables,True,True,Capital Goods,Consumer Non-durables,1.0,-1.0
+Pair 3,june2026,use-based,6,2025-08,2.1075,-0.5306,False,Consumer Non-durables,Consumer Non-durables,True,True,Capital Goods,Consumer Non-durables,0.75,-0.9
+Pair 3,june2026,use-based,6,2025-09,2.0611,-0.2348,False,Consumer Non-durables,Consumer Non-durables,True,False,Capital Goods,Consumer Non-durables,0.5,-0.9
+Pair 3,june2026,use-based,6,2025-10,1.8659,-0.4293,False,Consumer Non-durables,Consumer Non-durables,True,False,Intermediate Goods,Consumer Non-durables,0.5,-0.9
+Pair 3,june2026,use-based,12,2025-04,0.0122,-1.9939,False,Intermediate Goods,Consumer Durables,False,False,Consumer Durables,Consumer Durables,0.5,0.7
+Pair 3,june2026,use-based (6 categories),6,2024-10,-0.0475,-0.4891,True,Primary Goods,Primary Goods,True,False,Primary Goods,Primary Goods,0.1667,0.8857
+Pair 3,june2026,use-based (6 categories),6,2024-11,0.0029,-0.3789,False,Infrastructure/ Construction Goods,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.0,0.7714
+Pair 3,june2026,use-based (6 categories),6,2024-12,-0.2967,-0.5649,True,Consumer Non-durables,Consumer Durables,False,False,Consumer Non-durables,Consumer Durables,0.1667,0.8286
+Pair 3,june2026,use-based (6 categories),6,2025-01,-0.468,-0.7592,True,Consumer Durables,Consumer Durables,True,True,Consumer Durables,Consumer Durables,0.1667,0.7143
+Pair 3,june2026,use-based (6 categories),6,2025-02,-0.6628,-1.0168,True,Primary Goods,Consumer Durables,False,False,Primary Goods,Consumer Durables,0.1667,0.6
+Pair 3,june2026,use-based (6 categories),6,2025-03,-0.8948,-1.1126,True,Primary Goods,Consumer Durables,False,False,Primary Goods,Consumer Durables,0.3333,-0.0286
+Pair 3,june2026,use-based (6 categories),6,2025-04,-0.897,-1.5347,True,Primary Goods,Intermediate Goods,False,True,Primary Goods,Intermediate Goods,0.6667,-0.2571
+Pair 3,june2026,use-based (6 categories),6,2025-05,-1.043,-2.4268,True,Primary Goods,Intermediate Goods,False,True,Primary Goods,Intermediate Goods,0.6667,-0.3714
+Pair 3,june2026,use-based (6 categories),6,2025-06,0.3518,-1.839,False,Infrastructure/ Construction Goods,Consumer Non-durables,False,True,Primary Goods,Consumer Non-durables,0.6667,-0.3714
+Pair 3,june2026,use-based (6 categories),6,2025-07,1.8075,-0.8938,False,Infrastructure/ Construction Goods,Consumer Non-durables,False,False,Capital Goods,Consumer Non-durables,0.6667,-0.3143

@@ -1,0 +1,38 @@
+sample,pair,statistic,method,months_or_dates,block,estimate,se,lo,hi,crit,df,bandwidth,flag,expected_blocks,boot_median,share_below_est
+main,Pair 1,mean gap (new - old),EWC,63.0,,0.6189,1.7149,-3.5774,4.8152,2.4469,6.0,6.0,not distinguishable from zero,,,
+main,Pair 1,"mean gap (new - old), fixed-b NW",fixed-b NW,63.0,,0.6189,1.6028,-3.2971,4.5349,2.4433,,11.0,not distinguishable from zero,,,
+main,Pair 1,"mean gap (new - old), annual t, 6 fiscal years","annual t, 6 fiscal years",6.0,,0.4917,1.5855,-3.5839,4.5672,2.5706,5.0,,not distinguishable from zero,,,
+main,Pair 1,"mean gap (new - old), annual t, 5 true-YoY fiscal years","annual t, 5 true-YoY fiscal years",5.0,,0.4534,1.9412,-4.9363,5.8431,2.7764,4.0,,not distinguishable from zero,,,
+main,Pair 2,mean gap (new - old),EWC,48.0,,2.3346,1.0743,-0.427,5.0961,2.5706,5.0,5.0,fragile,,,
+main,Pair 2,"mean gap (new - old), fixed-b NW",fixed-b NW,48.0,,2.3346,0.8664,0.1252,4.5439,2.55,,10.0,fragile,,,
+main,Pair 2,"mean gap (new - old), annual t, 5 fiscal years","annual t, 5 fiscal years",5.0,,2.3145,0.5789,0.7072,3.9218,2.7764,4.0,,fragile,,,
+main,Pair 2,"mean gap (new - old), annual t, 4 true-YoY fiscal years","annual t, 4 true-YoY fiscal years",4.0,,2.3458,0.7463,-0.0292,4.7208,3.1824,3.0,,fragile,,,
+main,Pair 3,mean gap (new - old),EWC,24.0,,0.9186,0.6115,-1.0275,2.8647,3.1824,3.0,3.0,not distinguishable from zero,,,
+main,Pair 3,"mean gap (new - old), fixed-b NW",fixed-b NW,24.0,,0.9186,0.4865,-0.4564,2.2936,2.8265,,7.0,not distinguishable from zero,,,
+main,Pair 3,"mean gap (new - old), annual t, 3 fiscal years","annual t, 3 fiscal years",3.0,,0.8878,0.4395,-1.0033,2.7789,4.3027,2.0,,not distinguishable from zero,,,
+main,Pair 3,"mean gap (new - old), annual t, 2 true-YoY fiscal years","annual t, 2 true-YoY fiscal years",2.0,,0.8904,0.7613,-8.7822,10.5631,12.7062,1.0,,not distinguishable from zero,,,
+main,Pair 1,rmsd,stationary bootstrap,63.0,12.0,4.7938,,3.6383,5.7256,,,,coarse (<8 blocks),5.25,4.7938,0.4985
+main,Pair 1,corr,stationary bootstrap,63.0,12.0,0.6655,,0.4852,0.8126,,,,coarse (<8 blocks),5.25,0.6817,0.411
+main,Pair 1,capdur_share,stationary bootstrap,63.0,12.0,0.7321,,0.5604,0.9067,,,,coarse (<8 blocks),5.25,0.7315,0.503
+main,Pair 1,ratio: median disagreement / larger median change (6-month),stationary bootstrap,52.0,12.0,0.7435,,0.4142,1.0468,,,,coarse (<8 blocks),4.3333,0.6992,0.6335
+main,Pair 2,rmsd,stationary bootstrap,48.0,12.0,3.6956,,2.8312,4.4423,,,,coarse (<8 blocks),4.0,3.6809,0.5105
+main,Pair 2,corr,stationary bootstrap,48.0,12.0,0.365,,0.1543,0.6101,,,,coarse (<8 blocks),4.0,0.3848,0.419
+main,Pair 2,capdur_share,stationary bootstrap,48.0,12.0,0.6109,,0.5164,0.766,,,,coarse (<8 blocks),4.0,0.6109,0.4955
+main,Pair 2,ratio: median disagreement / larger median change (6-month),stationary bootstrap,37.0,12.0,1.5036,,1.1753,2.0381,,,,coarse (<8 blocks),3.0833,1.4957,0.526
+main,Pair 3,rmsd,stationary bootstrap,24.0,6.0,1.5466,,1.2158,1.8262,,,,coarse (<8 blocks),4.0,1.5472,0.478
+main,Pair 3,corr,stationary bootstrap,24.0,6.0,0.7989,,0.6838,0.9115,,,,coarse (<8 blocks),4.0,0.8148,0.3725
+main,Pair 3,capdur_share,stationary bootstrap,24.0,6.0,0.2001,,0.1026,0.2527,,,,coarse (<8 blocks),4.0,0.2001,0.4945
+main,Pair 3,ratio: median disagreement / larger median change (6-month),stationary bootstrap,13.0,6.0,0.7359,,0.3617,1.2917,,,,coarse (<8 blocks),2.1667,0.7359,0.3835
+main,Pair 1 - Pair 2,capdur_share difference,stationary bootstrap,,12.0,0.1211,,-0.1087,0.3091,,,,,,,
+main,Pair 1,"effective windows, L=6",,52.0,,4.3333,,,,,,,,,,
+main,Pair 1,"effective windows, L=6 (both changes > 1 pp)",,40.0,,3.3333,,,,,,,,,,
+main,Pair 1,"effective windows, L=12",,40.0,,1.6667,,,,,,,,,,
+main,Pair 1,"effective windows, L=12 (both changes > 1 pp)",,33.0,,1.375,,,,,,,,,,
+main,Pair 2,"effective windows, L=6",,37.0,,3.0833,,,,,,,,,,
+main,Pair 2,"effective windows, L=6 (both changes > 1 pp)",,19.0,,1.5833,,,,,,,,,,
+main,Pair 2,"effective windows, L=12",,25.0,,1.0417,,,,,,,,,,
+main,Pair 2,"effective windows, L=12 (both changes > 1 pp)",,16.0,,0.6667,,,,,,,,,,
+main,Pair 3,"effective windows, L=6",,13.0,,1.0833,,,,,,,,,,
+main,Pair 3,"effective windows, L=6 (both changes > 1 pp)",,1.0,,0.0833,,,,,,,,,,
+main,Pair 3,"effective windows, L=12",,1.0,,0.0417,,,,,,,,,,
+main,Pair 3,"effective windows, L=12 (both changes > 1 pp)",,0.0,,0.0,,,,,,,,,,

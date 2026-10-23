@@ -1,0 +1,297 @@
+id,type,item,pair,version,block,estimate,lo,hi,p,p_adj,decision,n,expected_blocks,B,boot_median,note
+H1a,test,H1a group contrast,Pair 1,esankhyiki,12.0,-2.0023,-2.9316,-1.1776,0.0001,,,52.0,4.3333,9999.0,-2.1154,log ratio; negative = stable-source units more reliable
+H1a,test,H1a group contrast,Pair 2,esankhyiki,12.0,-0.7966,-1.2412,-0.1287,0.0035,,,37.0,3.0833,9999.0,-0.7747,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a group contrast,Pair 3,esankhyiki,12.0,-0.8727,-1.8733,-0.7259,0.0001,,,13.0,1.0833,9999.0,-0.9612,log ratio; negative = stable-source units more reliable
+H1a,test,H1a group contrast,Pooled P1+P2,esankhyiki,12.0,4.5752,,,0.0,,PASS,,,,,Stouffer Z; negative contrast in both pairs: True
+H1a,test,H1a Electricity vs Manufacturing,Pair 1,esankhyiki,12.0,-3.5153,-4.9338,-1.8674,0.0001,,,52.0,4.3333,9999.0,-3.5062,log ratio; negative = stable-source units more reliable
+H1a,test,H1a Electricity vs Manufacturing,Pair 2,esankhyiki,12.0,-1.3272,-1.8761,-0.3368,0.0006,,,37.0,3.0833,9999.0,-1.1835,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a Electricity vs Manufacturing,Pair 3,esankhyiki,12.0,-3.5461,-4.5835,-2.9079,0.0001,,,13.0,1.0833,9999.0,-3.5461,log ratio; negative = stable-source units more reliable
+H1a,test,H1a Electricity vs Manufacturing,Pooled P1+P2,esankhyiki,12.0,4.9317,,,0.0,0.0,,,,,,Stouffer Z; negative contrast in both pairs: True
+H1a,test,H1a Mining vs Manufacturing,Pair 1,esankhyiki,12.0,-0.8476,-1.3469,-0.1218,0.0126,,,52.0,4.3333,9999.0,-0.7867,log ratio; negative = stable-source units more reliable
+H1a,test,H1a Mining vs Manufacturing,Pair 2,esankhyiki,12.0,-1.283,-1.7088,-0.1842,0.0018,,,37.0,3.0833,9999.0,-1.1339,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a Mining vs Manufacturing,Pair 3,esankhyiki,12.0,0.0068,-0.6636,0.8802,0.7553,,,13.0,1.0833,9999.0,0.0068,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a Mining vs Manufacturing,Pair 3,june2026,12.0,-0.0709,-0.6063,0.9447,0.3328,,,13.0,1.0833,9999.0,-0.0709,log ratio; negative = stable-source units more reliable
+H1a,test,H1a Mining vs Manufacturing,Pooled P1+P2,esankhyiki,12.0,3.6007,,,0.0002,0.0002,,,,,,Stouffer Z; negative contrast in both pairs: True
+H1a,test,H1a group contrast,Pair 1,esankhyiki,6.0,-2.0023,-2.9156,-1.1622,0.0001,,,52.0,8.6667,9999.0,-2.1388,log ratio; negative = stable-source units more reliable
+H1a,test,H1a group contrast,Pair 2,esankhyiki,6.0,-0.7966,-1.2606,-0.0962,0.0064,,,37.0,6.1667,9999.0,-0.7299,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a group contrast,Pair 3,esankhyiki,6.0,-0.8727,-1.927,-0.6621,0.0001,,,13.0,2.1667,9999.0,-1.1722,log ratio; negative = stable-source units more reliable
+H1a,sensitivity,H1a group contrast,Pooled P1+P2,esankhyiki,6.0,4.4387,,,0.0,,PASS,,,,,Stouffer Z; negative contrast in both pairs: True
+H1a,test,H1a Electricity vs Manufacturing,Pair 1,esankhyiki,6.0,-3.5153,-4.8924,-1.8446,0.0001,,,52.0,8.6667,9999.0,-3.4886,log ratio; negative = stable-source units more reliable
+H1a,test,H1a Electricity vs Manufacturing,Pair 2,esankhyiki,6.0,-1.3272,-1.9373,-0.3022,0.0016,,,37.0,6.1667,9999.0,-1.134,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a Electricity vs Manufacturing,Pair 3,esankhyiki,6.0,-3.5461,-4.8956,-2.7022,0.0001,,,13.0,2.1667,9999.0,-3.7021,log ratio; negative = stable-source units more reliable
+H1a,sensitivity,H1a Electricity vs Manufacturing,Pooled P1+P2,esankhyiki,6.0,4.7403,,,0.0,0.0,,,,,,Stouffer Z; negative contrast in both pairs: True
+H1a,test,H1a Mining vs Manufacturing,Pair 1,esankhyiki,6.0,-0.8476,-1.4229,-0.0837,0.0157,,,52.0,8.6667,9999.0,-0.7727,log ratio; negative = stable-source units more reliable
+H1a,test,H1a Mining vs Manufacturing,Pair 2,esankhyiki,6.0,-1.283,-1.701,-0.1641,0.0028,,,37.0,6.1667,9999.0,-1.0465,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a Mining vs Manufacturing,Pair 3,esankhyiki,6.0,0.0068,-0.7128,0.9614,0.6686,,,13.0,2.1667,9999.0,0.0279,log ratio; negative = stable-source units more reliable
+H1a,exploratory,H1a Mining vs Manufacturing,Pair 3,june2026,6.0,-0.0709,-0.6604,0.9557,0.4852,,,13.0,2.1667,9999.0,-0.0211,log ratio; negative = stable-source units more reliable
+H1a,sensitivity,H1a Mining vs Manufacturing,Pooled P1+P2,esankhyiki,6.0,3.443,,,0.0003,0.0003,,,,,,Stouffer Z; negative contrast in both pairs: True
+H1b,test,"Spearman rho of R ranks, P1 vs P2 (7 units)",P1 vs P2,,,0.8571,,,0.0119,,PASS,7.0,,,,"exact permutation over 5040 orderings; ranks P1 {'Mining': np.float64(2.0), 'Manufacturing': np.float64(6.0), 'Electricity': np.float64(1.0), 'Capital Goods': np.float64(5.0), 'Intermediate Goods': np.float64(3.0), 'Consumer Durables': np.float64(7.0), 'Consumer Non-durables': np.float64(4.0)}; P2 {'Mining': np.float64(2.0), 'Manufacturing': np.float64(7.0), 'Electricity': np.float64(1.0), 'Capital Goods': np.float64(6.0), 'Intermediate Goods': np.float64(4.0), 'Consumer Durables': np.float64(5.0), 'Consumer Non-durables': np.float64(3.0)}"
+H2,test,tier: General,Pair 1,esankhyiki,,0.7435,0.405,1.0581,0.0509,0.2036,undetermined,,,,,
+H2,test,tier: Mining,Pair 1,esankhyiki,,0.3724,0.2134,0.442,0.0001,0.0008,readable,,,,,
+H2,test,tier: Manufacturing,Pair 1,esankhyiki,,0.8692,0.412,1.064,0.0632,0.2036,undetermined,,,,,
+H2,test,tier: Electricity,Pair 1,esankhyiki,,0.0258,0.0065,0.0737,0.0001,0.0008,readable,,,,,
+H2,test,tier: Capital Goods,Pair 1,esankhyiki,,0.7851,0.3635,1.6239,0.3331,0.554,undetermined,,,,,
+H2,test,tier: Intermediate Goods,Pair 1,esankhyiki,,0.5012,0.3586,0.7584,0.0005,0.003,readable,,,,,
+H2,test,tier: Consumer Durables,Pair 1,esankhyiki,,0.8964,0.4868,1.5196,0.277,0.554,undetermined,,,,,
+H2,test,tier: Consumer Non-durables,Pair 1,esankhyiki,,0.6606,0.4886,1.0104,0.0174,0.087,undetermined,,,,,
+H2,test,tier: General,Pair 2,esankhyiki,,1.5036,1.0971,2.0427,0.0036,0.0288,undetermined,,,,,
+H2,test,tier: Mining,Pair 2,esankhyiki,,0.4586,0.3554,0.9092,0.0012,0.0096,readable,,,,,
+H2,test,tier: Manufacturing,Pair 2,esankhyiki,,1.6544,0.8958,2.149,0.1661,1.0,undetermined,,,,,
+H2,test,tier: Electricity,Pair 2,esankhyiki,,0.4388,0.2668,0.9521,0.0078,0.0546,undetermined,,,,,
+H2,test,tier: Capital Goods,Pair 2,esankhyiki,,1.1264,0.6797,2.1202,0.266,1.0,undetermined,,,,,
+H2,test,tier: Intermediate Goods,Pair 2,esankhyiki,,0.8088,0.5265,1.5015,0.2542,1.0,undetermined,,,,,
+H2,test,tier: Consumer Durables,Pair 2,esankhyiki,,0.9452,0.7491,1.3683,0.3988,1.0,undetermined,,,,,
+H2,test,tier: Consumer Non-durables,Pair 2,esankhyiki,,0.6844,0.4981,1.2876,0.1174,0.7044,undetermined,,,,,
+H2,exploratory,tier: General,Pair 3,esankhyiki,,0.7359,0.3617,1.2917,0.1078,0.1078,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Mining,Pair 3,esankhyiki,,1.594,0.7065,2.0294,0.0919,0.0919,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Manufacturing,Pair 3,esankhyiki,,1.5832,0.7034,2.3845,0.2242,0.2242,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Electricity,Pair 3,esankhyiki,,0.0457,0.0121,0.0664,0.0001,0.0001,"readable (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Capital Goods,Pair 3,esankhyiki,,0.2498,0.1341,0.8536,0.0039,0.0039,"readable (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Intermediate Goods,Pair 3,esankhyiki,,0.6387,0.3427,1.8257,0.1704,0.1704,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Consumer Durables,Pair 3,esankhyiki,,0.5392,0.3345,0.9502,0.0102,0.0102,"readable (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Consumer Non-durables,Pair 3,esankhyiki,,0.8238,0.4014,2.1077,0.2524,0.2524,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: General,Pair 3,june2026,,0.7127,0.3482,2.4424,0.2417,0.2417,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Mining,Pair 3,june2026,,1.603,0.707,2.033,0.0959,0.0959,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Manufacturing,Pair 3,june2026,,1.7208,0.6233,2.5367,0.1867,0.1867,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Capital Goods,Pair 3,june2026,,0.3145,0.0649,1.1552,0.0297,0.0297,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Intermediate Goods,Pair 3,june2026,,0.7517,0.4186,1.8684,0.1376,0.1376,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Consumer Durables,Pair 3,june2026,,0.4204,0.0882,1.0356,0.0595,0.0595,"undetermined (exploratory, unadjusted)",,,,,
+H2,exploratory,tier: Consumer Non-durables,Pair 3,june2026,,0.837,0.403,2.314,0.2421,0.2421,"undetermined (exploratory, unadjusted)",,,,,
+H2,test,tier: General,Pooled P1+P2,esankhyiki,,,,,0.2967,1.0,undetermined,,,,,
+H2,test,tier: Mining,Pooled P1+P2,esankhyiki,,,,,0.0,0.0,readable,,,,,
+H2,test,tier: Manufacturing,Pooled P1+P2,esankhyiki,,,,,0.3038,1.0,undetermined,,,,,
+H2,test,tier: Electricity,Pooled P1+P2,esankhyiki,,,,,0.0,0.0,readable,,,,,
+H2,test,tier: Capital Goods,Pooled P1+P2,esankhyiki,,,,,0.4658,1.0,undetermined,,,,,
+H2,test,tier: Intermediate Goods,Pooled P1+P2,esankhyiki,,,,,0.0018,0.0107,readable,,,,,
+H2,test,tier: Consumer Durables,Pooled P1+P2,esankhyiki,,,,,0.3909,1.0,undetermined,,,,,
+H2,test,tier: Consumer Non-durables,Pooled P1+P2,esankhyiki,,,,,0.0089,0.0443,undetermined,,,,,
+H3a,test,leader agreement vs circular-shift null,Pair 1,esankhyiki,,0.3077,,,0.4,,,52.0,,,,"29 shifts; smallest attainable p 0.033; Harris check: A(window)=0.083, conservative p=1.000 (N=20, D=12)"
+H3d,test,opposite direction of General (|move|>1 pp in both) vs circular-shift null,Pair 1,esankhyiki,,0.05,,,1.0,,FAIL,40.0,,,,29 shifts; smallest attainable p 0.033; Harris conservative p=1.000; independent windows ~3.3
+H3b,bound,"leader agreement, margin >= 0.1 pp in both",Pair 1,esankhyiki,12.0,0.3404,,0.4792,,,,47.0,,9999.0,,one-sided 95% upper bound in hi [primary]
+H3b,bound,"leader agreement, margin >= 0.25 pp in both",Pair 1,esankhyiki,12.0,0.3824,,0.5385,,,,34.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,bound,"leader agreement, margin >= 0.5 pp in both",Pair 1,esankhyiki,12.0,0.48,,0.6452,,,,25.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,bound,"leader agreement, unfiltered",Pair 1,esankhyiki,12.0,0.3077,,0.4423,,,,52.0,,9999.0,,one-sided 95% upper bound in hi
+H3c,bound,material sign flips (|contribution| >= 0.1 pp in both),Pair 1,esankhyiki,12.0,0.2404,0.1564,0.3298,,,,183.0,,9999.0,,share of unit-dates; 95% interval
+H3c,bound,reversal: old leader ranked 3rd/4th in new,Pair 1,esankhyiki,12.0,0.5385,0.3654,0.7308,,,,52.0,,9999.0,,share of dates; 95% interval
+H3c,bound,reversal: new leader ranked 3rd/4th in old,Pair 1,esankhyiki,12.0,0.5769,0.4423,0.7308,,,,52.0,,9999.0,,share of dates; 95% interval
+H3a,test,leader agreement vs circular-shift null,Pair 2,esankhyiki,,0.2973,,,0.2,,,37.0,,,,"14 shifts; smallest attainable p 0.067; Harris check: A(window)=0.385, conservative p=0.231 (N=12, D=13)"
+H3d,test,opposite direction of General (|move|>1 pp in both) vs circular-shift null,Pair 2,esankhyiki,,0.8421,,,0.0667,,FAIL,19.0,,,,14 shifts; smallest attainable p 0.067; Harris conservative p=0.385; independent windows ~1.6
+H3b,bound,"leader agreement, margin >= 0.1 pp in both",Pair 2,esankhyiki,12.0,0.3125,,0.4118,,,,32.0,,9999.0,,one-sided 95% upper bound in hi [primary]
+H3b,bound,"leader agreement, margin >= 0.25 pp in both",Pair 2,esankhyiki,12.0,0.2353,,0.4,,,,17.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,bound,"leader agreement, margin >= 0.5 pp in both",Pair 2,esankhyiki,12.0,0.1429,,0.6667,,,,7.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,bound,"leader agreement, unfiltered",Pair 2,esankhyiki,12.0,0.2973,,0.4054,,,,37.0,,9999.0,,one-sided 95% upper bound in hi
+H3c,bound,material sign flips (|contribution| >= 0.1 pp in both),Pair 2,esankhyiki,12.0,0.4091,0.3125,0.5,,,,88.0,,9999.0,,share of unit-dates; 95% interval
+H3c,bound,reversal: old leader ranked 3rd/4th in new,Pair 2,esankhyiki,12.0,0.3784,0.2432,0.5135,,,,37.0,,9999.0,,share of dates; 95% interval
+H3c,bound,reversal: new leader ranked 3rd/4th in old,Pair 2,esankhyiki,12.0,0.5405,0.4324,0.6486,,,,37.0,,9999.0,,share of dates; 95% interval
+H3b,exploratory,"leader agreement, margin >= 0.1 pp in both",Pair 3,esankhyiki,12.0,0.6667,,0.8571,,,,6.0,,9999.0,,one-sided 95% upper bound in hi [primary]
+H3b,exploratory,"leader agreement, margin >= 0.25 pp in both",Pair 3,esankhyiki,12.0,1.0,,1.0,,,,1.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,exploratory,"leader agreement, margin >= 0.5 pp in both",Pair 3,esankhyiki,12.0,,,,,,,0.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,exploratory,"leader agreement, unfiltered",Pair 3,esankhyiki,12.0,0.5385,,0.6923,,,,13.0,,9999.0,,one-sided 95% upper bound in hi
+H3c,exploratory,material sign flips (|contribution| >= 0.1 pp in both),Pair 3,esankhyiki,12.0,0.3333,0.1379,0.5357,,,,30.0,,9999.0,,share of unit-dates; 95% interval
+H3c,exploratory,reversal: old leader ranked 3rd/4th in new,Pair 3,esankhyiki,12.0,0.3077,0.0769,0.5385,,,,13.0,,9999.0,,share of dates; 95% interval
+H3c,exploratory,reversal: new leader ranked 3rd/4th in old,Pair 3,esankhyiki,12.0,0.3846,0.1538,0.6154,,,,13.0,,9999.0,,share of dates; 95% interval
+H3b,exploratory,"leader agreement, margin >= 0.1 pp in both",Pair 3,june2026,12.0,0.8,,1.0,,,,5.0,,9999.0,,one-sided 95% upper bound in hi [primary]
+H3b,exploratory,"leader agreement, margin >= 0.25 pp in both",Pair 3,june2026,12.0,,,,,,,0.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,exploratory,"leader agreement, margin >= 0.5 pp in both",Pair 3,june2026,12.0,,,,,,,0.0,,9999.0,,one-sided 95% upper bound in hi
+H3b,exploratory,"leader agreement, unfiltered",Pair 3,june2026,12.0,0.6923,,0.8462,,,,13.0,,9999.0,,one-sided 95% upper bound in hi
+H3c,exploratory,material sign flips (|contribution| >= 0.1 pp in both),Pair 3,june2026,12.0,0.375,0.1667,0.5882,,,,32.0,,9999.0,,share of unit-dates; 95% interval
+H3c,exploratory,reversal: old leader ranked 3rd/4th in new,Pair 3,june2026,12.0,0.2308,0.0769,0.3846,,,,13.0,,9999.0,,share of dates; 95% interval
+H3c,exploratory,reversal: new leader ranked 3rd/4th in old,Pair 3,june2026,12.0,0.2308,0.0769,0.3846,,,,13.0,,9999.0,,share of dates; 95% interval
+H3a,test,leader agreement vs circular-shift null,Pooled P1+P2,,,0.7443,,,0.2283,,FAIL (no evidence of agreement beyond chance),,,,,Stouffer Z
+H3d,test,opposite direction of General vs circular-shift null,Pooled P1+P2,,,,,,1.0,,FAIL,,,,,Pair 1 p = 1 (the bases agree on direction more than at any shift); pooled Z undefined
+H4a,bound,weight-effect share of MSD: Capital Goods,Pair 1,esankhyiki,12.0,-0.0105,-0.0225,0.0046,,,,63.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Intermediate Goods,Pair 1,esankhyiki,12.0,-0.0262,-0.1185,0.0738,,,,63.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Consumer Durables,Pair 1,esankhyiki,12.0,0.01,-0.0721,0.0859,,,,63.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Consumer Non-durables,Pair 1,esankhyiki,12.0,-0.0143,-0.0253,-0.003,,,,63.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Other,Pair 1,esankhyiki,12.0,0.0379,-0.0269,0.1053,,,,63.0,,9999.0,,90% interval
+H4d,test,CG+CD demeaned data share minus volatility share,Pair 1,esankhyiki,12.0,0.2518,0.0716,0.4074,0.0031,,,63.0,,9999.0,,
+H4a,bound,weight-effect share of MSD: Capital Goods,Pair 2,esankhyiki,12.0,0.0106,0.006,0.0136,,,,48.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Intermediate Goods,Pair 2,esankhyiki,12.0,0.0095,0.0064,0.0132,,,,48.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Consumer Durables,Pair 2,esankhyiki,12.0,-0.0169,-0.1015,0.0297,,,,48.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Consumer Non-durables,Pair 2,esankhyiki,12.0,-0.0249,-0.0432,-0.0081,,,,48.0,,9999.0,,90% interval
+H4a,bound,weight-effect share of MSD: Other,Pair 2,esankhyiki,12.0,0.0054,0.0036,0.0071,,,,48.0,,9999.0,,90% interval
+H4d,test,CG+CD demeaned data share minus volatility share,Pair 2,esankhyiki,12.0,0.1552,0.0424,0.383,0.0028,,,48.0,,9999.0,,
+H4a,exploratory,weight-effect share of MSD: Capital Goods,Pair 3,esankhyiki,6.0,-0.0034,-0.0058,-0.0004,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Intermediate Goods,Pair 3,esankhyiki,6.0,0.1142,0.0445,0.1579,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Consumer Durables,Pair 3,esankhyiki,6.0,-0.0446,-0.0552,-0.0262,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Consumer Non-durables,Pair 3,esankhyiki,6.0,0.0028,-0.0004,0.0058,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Other,Pair 3,esankhyiki,6.0,-0.0828,-0.109,-0.0424,,,,24.0,,9999.0,,90% interval
+H4d,exploratory,CG+CD demeaned data share minus volatility share,Pair 3,esankhyiki,6.0,-0.0609,-0.1691,0.1569,0.7535,,,24.0,,9999.0,,
+H4a,exploratory,weight-effect share of MSD: Capital Goods,Pair 3,june2026,6.0,-0.003,-0.0044,-0.0006,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Intermediate Goods,Pair 3,june2026,6.0,0.0861,0.0347,0.1099,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Consumer Durables,Pair 3,june2026,6.0,-0.033,-0.0422,-0.0159,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Consumer Non-durables,Pair 3,june2026,6.0,0.0012,-0.0027,0.0036,,,,24.0,,9999.0,,90% interval
+H4a,exploratory,weight-effect share of MSD: Other,Pair 3,june2026,6.0,-0.0682,-0.0879,-0.0358,,,,24.0,,9999.0,,90% interval
+H4d,exploratory,CG+CD demeaned data share minus volatility share,Pair 3,june2026,6.0,-0.1469,-0.2691,-0.0007,0.9763,,,24.0,,9999.0,,
+H4a,bound,"bound b: largest |90% interval end| of weight-effect share, all units, P1 and P2",P1 and P2,,,0.1185,,,,,,,,,,Pair 1: 0.119; Pair 2: 0.102
+H4d,test,CG+CD concentration beyond volatility,Pooled P1+P2,,,3.8837,,,0.0001,,PASS,,,,,Stouffer Z
+H4b,bound,P2 - P1 capital goods demeaned data share,P2 - P1,,,0.0017,-0.2066,0.1633,,,,,,,,"90% interval, independent streams; equivalence bound = 0.207; P1 0.478, P2 0.480"
+H4c,bound,"DiD in log R (use-based minus sectors), P1 to P2; sectors = Mining, Manufacturing, Electricity",P2 - P1,,,-0.9959,-1.8267,-0.4995,,,,,,,,90% interval; ratio bound exp(max|end|) = 6.21; positive = use-based deteriorated more
+H4c,bound,"DiD in log R (use-based minus sectors), P1 to P2; sensitivity: sector control = Manufacturing only",P2 - P1,,,-0.4116,-0.9171,0.1549,,,,,,,,90% interval; ratio bound exp(max|end|) = 2.50; positive = use-based deteriorated more
+H5a,test,mean gap: Capital Goods,Pair 1,esankhyiki,,4.4892,-12.931,21.9094,0.5516,,,63.0,,,,"EWC (nu=6); fixed-b p=0.5404, interval -11.38 to 20.36"
+H5a,test,mean gap: Capital Goods,Pair 2,esankhyiki,,2.9327,-11.4508,17.3162,0.6226,,,48.0,,,,"EWC (nu=5); fixed-b p=0.5971, interval -9.39 to 15.26"
+H5a,exploratory,mean gap: Capital Goods,Pair 3,esankhyiki,,2.1051,0.4611,3.7491,0.0267,,,24.0,,,,"EWC (nu=3); fixed-b p=0.0318, interval 0.26 to 3.95"
+H5a,exploratory,mean gap: Capital Goods,Pair 3,june2026,,3.5074,1.2733,5.7415,0.0154,,,24.0,,,,"EWC (nu=3); fixed-b p=0.0073, interval 1.27 to 5.75"
+H5a,test,mean gap: Consumer Durables,Pair 1,esankhyiki,,8.4867,-8.4102,25.3836,0.2651,,,63.0,,,,"EWC (nu=6); fixed-b p=0.2650, interval -7.74 to 24.71"
+H5a,test,mean gap: Consumer Durables,Pair 2,esankhyiki,,5.8471,-8.1256,19.8198,0.3312,,,48.0,,,,"EWC (nu=5); fixed-b p=0.3201, interval -6.97 to 18.66"
+H5a,exploratory,mean gap: Consumer Durables,Pair 3,esankhyiki,,-1.1622,-4.7075,2.383,0.3735,,,24.0,,,,"EWC (nu=3); fixed-b p=0.3367, interval -3.90 to 1.57"
+H5a,exploratory,mean gap: Consumer Durables,Pair 3,june2026,,-0.1037,-3.4207,3.2134,0.927,,,24.0,,,,"EWC (nu=3); fixed-b p=0.9177, interval -2.55 to 2.34"
+H5a,test,mean gap: Capital Goods,Pooled P1+P2,,,3.5271,-6.1557,13.2098,0.4397,0.4397,FAIL,,,,,EWC pooled (df 11) p=0.4397 adj 0.4397; fixed-b pooled p=0.4390 adj 0.4390
+H5a,test,mean gap: Consumer Durables,Pooled P1+P2,,,6.8569,-2.5438,16.2576,0.1367,0.3254,FAIL,,,,,EWC pooled (df 11) p=0.1367 adj 0.2734; fixed-b pooled p=0.1627 adj 0.3254
+H5b,test,mean of (category gap - General gap): Capital Goods,Pair 1,esankhyiki,,3.8703,-9.6151,17.3556,0.5088,,,63.0,,,,"EWC (nu=6); fixed-b p=0.4937, interval -8.31 to 16.05"
+H5b,test,mean of (category gap - General gap): Capital Goods,Pair 2,esankhyiki,,0.5982,-11.7462,12.9425,0.9057,,,48.0,,,,"EWC (nu=5); fixed-b p=0.8989, interval -10.24 to 11.44"
+H5b,exploratory,mean of (category gap - General gap): Capital Goods,Pair 3,esankhyiki,,1.1865,-2.1586,4.5316,0.3411,,,24.0,,,,"EWC (nu=3); fixed-b p=0.3631, interval -1.78 to 4.15"
+H5b,exploratory,mean of (category gap - General gap): Capital Goods,Pair 3,june2026,,2.1858,-2.3991,6.7706,0.2265,,,24.0,,,,"EWC (nu=3); fixed-b p=0.2147, interval -1.68 to 6.05"
+H5b,test,mean of (category gap - General gap): Consumer Durables,Pair 1,esankhyiki,,7.8678,-5.8838,21.6193,0.2111,,,63.0,,,,"EWC (nu=6); fixed-b p=0.2084, interval -5.29 to 21.02"
+H5b,test,mean of (category gap - General gap): Consumer Durables,Pair 2,esankhyiki,,3.5125,-10.2552,17.2803,0.5409,,,48.0,,,,"EWC (nu=5); fixed-b p=0.5459, interval -9.31 to 16.33"
+H5b,exploratory,mean of (category gap - General gap): Consumer Durables,Pair 3,esankhyiki,,-2.0809,-3.9316,-0.2301,0.0373,,,24.0,,,,"EWC (nu=3); fixed-b p=0.0149, interval -3.63 to -0.53"
+H5b,exploratory,mean of (category gap - General gap): Consumer Durables,Pair 3,june2026,,-1.4253,-2.3445,-0.5061,0.016,,,24.0,,,,"EWC (nu=3); fixed-b p=0.0050, interval -2.26 to -0.59"
+H5b,test,mean of (category gap - General gap): Capital Goods,Pooled P1+P2,,,2.0103,-5.9584,9.9791,0.5898,0.5946,FAIL,,,,,EWC pooled (df 11) p=0.5898 adj 0.5898; fixed-b pooled p=0.5946 adj 0.5946
+H5b,test,mean of (category gap - General gap): Consumer Durables,Pooled P1+P2,,,5.5854,-2.9482,14.119,0.1776,0.4176,FAIL,,,,,EWC pooled (df 11) p=0.1776 adj 0.3551; fixed-b pooled p=0.2088 adj 0.4176
+H6a,exploratory,"Spearman(value share, Pair 3 6-month change ratio [primary])",Pair 3,,,0.2345,,,0.1403,,FAIL,23.0,,,,"99,999 permutations, one-sided"
+H6a,exploratory,"Spearman(value share, Pair 3 demeaned level ratio)",Pair 3,,,0.4457,,,0.0169,,PASS,23.0,,,,"99,999 permutations, one-sided"
+H6b,exploratory,"Spearman(value share, |change in FY2025-26 growth| between vintages [primary])",Pair 3 vintages,,,0.3485,,,0.053,,FAIL,23.0,,,,"99,999 permutations, one-sided; revision also includes source-data updates"
+H6b,exploratory,"Spearman(value share, |change in log FY2024-25 index| between vintages)",Pair 3 vintages,,,0.4343,,,0.0203,,PASS,23.0,,,,"99,999 permutations, one-sided; revision also includes source-data updates"
+H1b-oos,post-review check,"Spearman rho of R ranks, Pair 1 vs Pair 3 (7 units)",Pair 1 vs Pair 3,esankhyiki,,0.0714,,,0.4532,,FAIL,7.0,,,,not in tests_spec.md; Pair 3 used as the held-out overlap
+H1b-oos,post-review check,"Spearman rho of R ranks, Pair 2 vs Pair 3 (7 units)",Pair 2 vs Pair 3,esankhyiki,,0.1071,,,0.4198,,FAIL,7.0,,,,not in tests_spec.md; Pair 3 used as the held-out overlap
+H1b-oos,post-review check,"Spearman rho of R ranks, Pair 1 vs Pair 3 (6 units)",Pair 1 vs Pair 3,june2026,,-0.2571,,,0.7181,,FAIL,6.0,,,,not in tests_spec.md; Pair 3 used as the held-out overlap
+H1b-oos,post-review check,"Spearman rho of R ranks, Pair 2 vs Pair 3 (6 units)",Pair 2 vs Pair 3,june2026,,-0.1429,,,0.6431,,FAIL,6.0,,,,not in tests_spec.md; Pair 3 used as the held-out overlap
+H2-geo,post-review check,tier with geometric-mean denominator: General,Pooled P1+P2,,,0.8108,1.5329,,0.0974,0.4868,undetermined,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H2-geo,post-review check,tier with geometric-mean denominator: Mining,Pooled P1+P2,,,0.4095,0.7063,,0.0009,0.0066,readable,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H2-geo,post-review check,tier with geometric-mean denominator: Manufacturing,Pooled P1+P2,,,0.9682,1.8622,,0.0457,0.2749,undetermined,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H2-geo,post-review check,tier with geometric-mean denominator: Electricity,Pooled P1+P2,,,0.0262,0.4876,,0.0,0.0002,readable,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H2-geo,post-review check,tier with geometric-mean denominator: Capital Goods,Pooled P1+P2,,,1.1405,1.8414,,0.0092,0.0734,undetermined,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H2-geo,post-review check,tier with geometric-mean denominator: Intermediate Goods,Pooled P1+P2,,,0.6249,1.0907,,0.0591,0.3543,undetermined,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H2-geo,post-review check,tier with geometric-mean denominator: Consumer Durables,Pooled P1+P2,,,0.9738,1.9272,,0.0393,0.2749,undetermined,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H2-geo,post-review check,tier with geometric-mean denominator: Consumer Non-durables,Pooled P1+P2,,,0.9801,0.8447,,0.4816,1.0,undetermined,,,,,"estimate = R_geo Pair 1, lo column = R_geo Pair 2 (block 12 only); not in tests_spec.md"
+H1a-geo,post-review check,"H1a group contrast, geometric-mean denominator",Pair 1,,,-2.1844,-3.1683,-1.3003,0.0001,,,,,,,not in tests_spec.md
+H1a-geo,post-review check,"H1a group contrast, geometric-mean denominator",Pair 2,,,-0.8943,-1.3493,-0.1349,0.0042,,,,,,,not in tests_spec.md
+H1a-geo,post-review check,"H1a group contrast, geometric-mean denominator",Pooled P1+P2,,,4.5349,,,0.0,,PASS,,,,,Stouffer Z; not in tests_spec.md
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Capital Goods,Pair 1,esankhyiki,12.0,-0.051,-0.0934,-0.0025,,,,63.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.505, new 1.409"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Intermediate Goods,Pair 1,esankhyiki,12.0,-0.024,-0.1241,0.0854,,,,63.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.982, new 0.923"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Durables,Pair 1,esankhyiki,12.0,-0.0161,-0.0811,0.0438,,,,63.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.533, new 1.372"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Non-durables,Pair 1,esankhyiki,12.0,-0.0182,-0.036,-0.0009,,,,63.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.990, new 0.927"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Other,Pair 1,esankhyiki,12.0,0.0657,-0.031,0.1673,,,,63.0,,9999.0,,90% interval; effective weights
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Capital Goods,Pair 1,esankhyiki,,0.5169,,,,,,63.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermediate Goods,Pair 1,esankhyiki,,0.0697,,,,,,63.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 1,esankhyiki,,0.2823,,,,,,63.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 1,esankhyiki,,0.0981,,,,,,63.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 1,esankhyiki,,0.0766,,,,,,63.0,,,,
+H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 1,esankhyiki,12.0,0.3087,0.102,0.4636,0.0019,,,63.0,,9999.0,,
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Capital Goods,Pair 2,esankhyiki,12.0,0.0662,0.0402,0.0855,,,,48.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.426, new 0.897"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Intermediate Goods,Pair 2,esankhyiki,12.0,0.0278,0.019,0.0379,,,,48.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.869, new 1.033"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Durables,Pair 2,esankhyiki,12.0,0.01,-0.0,0.0156,,,,48.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.505, new 1.033"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Non-durables,Pair 2,esankhyiki,12.0,-0.0084,-0.0166,-0.0011,,,,48.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.873, new 1.026"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Other,Pair 2,esankhyiki,12.0,0.0294,0.0186,0.0454,,,,48.0,,9999.0,,90% interval; effective weights
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Capital Goods,Pair 2,esankhyiki,,0.2976,,,,,,48.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermediate Goods,Pair 2,esankhyiki,,0.0444,,,,,,48.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 2,esankhyiki,,0.2372,,,,,,48.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 2,esankhyiki,,0.1814,,,,,,48.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 2,esankhyiki,,0.1146,,,,,,48.0,,,,
+H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 2,esankhyiki,12.0,0.0636,-0.0253,0.2492,0.0908,,,48.0,,9999.0,,
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Capital Goods,Pair 3,esankhyiki,6.0,0.0608,-0.0001,0.1085,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.732, new 1.039"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Intermediate Goods,Pair 3,esankhyiki,6.0,0.0823,0.0315,0.1136,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.074, new 0.995"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Durables,Pair 3,esankhyiki,6.0,0.0233,0.014,0.0299,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.824, new 0.996"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Non-durables,Pair 3,esankhyiki,6.0,0.0058,0.0029,0.0095,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.020, new 0.999"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Other,Pair 3,esankhyiki,6.0,-0.1303,-0.1719,-0.0675,,,,24.0,,9999.0,,90% interval; effective weights
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Capital Goods,Pair 3,esankhyiki,,0.0548,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermediate Goods,Pair 3,esankhyiki,,0.128,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 3,esankhyiki,,0.0612,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 3,esankhyiki,,0.4408,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 3,esankhyiki,,0.2732,,,,,,24.0,,,,
+H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 3,esankhyiki,6.0,-0.066,-0.1886,0.1205,0.7639,,,24.0,,9999.0,,
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Capital Goods,Pair 3,june2026,6.0,0.0559,0.0087,0.0855,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.732, new 1.051"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Intermediate Goods,Pair 3,june2026,6.0,0.0626,0.0263,0.0792,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.074, new 0.992"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Durables,Pair 3,june2026,6.0,0.0179,0.0094,0.0234,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.824, new 0.996"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Consumer Non-durables,Pair 3,june2026,6.0,0.004,0.0021,0.0072,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.020, new 0.995"
+H4a-eff,post-review check,weight-effect share of MSD (effective weights): Other,Pair 3,june2026,6.0,-0.111,-0.1404,-0.062,,,,24.0,,9999.0,,90% interval; effective weights
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Capital Goods,Pair 3,june2026,,0.0502,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermediate Goods,Pair 3,june2026,,0.1016,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 3,june2026,,0.0764,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 3,june2026,,0.3218,,,,,,24.0,,,,
+H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 3,june2026,,0.4207,,,,,,24.0,,,,
+H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 3,june2026,6.0,-0.1389,-0.2609,0.0136,0.9589,,,24.0,,9999.0,,
+H4a-eff,post-review check,"bound b: largest |90% interval end| of weight-effect share, all units, P1 and P2 (effective weights)",P1 and P2,,,0.1673,,,,,,,,,,Pair 1: 0.167; Pair 2: 0.085
+H4d-eff,post-review check,CG+CD concentration beyond volatility (effective weights),Pooled P1+P2,,,3.0589,,,0.0011,,PASS,,,,,Stouffer Z
+H4b-eff,post-review check,P2 - P1 capital goods demeaned data share (effective weights),P2 - P1,,,-0.1061,-0.2949,0.0402,,,,,,,,"90% interval; P1 0.513, P2 0.407"
+R-window,post-review check,R with 3-month windows: General,Pair 1,esankhyiki,,0.6264,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Mining,Pair 1,esankhyiki,,0.3012,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Manufacturing,Pair 1,esankhyiki,,0.6537,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Electricity,Pair 1,esankhyiki,,0.0181,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Capital Goods,Pair 1,esankhyiki,,0.8731,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Intermediate Goods,Pair 1,esankhyiki,,0.6999,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Consumer Durables,Pair 1,esankhyiki,,1.2085,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Consumer Non-durables,Pair 1,esankhyiki,,0.7224,,,,,,58.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: General,Pair 2,esankhyiki,,0.9624,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Mining,Pair 2,esankhyiki,,0.7363,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Manufacturing,Pair 2,esankhyiki,,1.0019,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Electricity,Pair 2,esankhyiki,,0.2473,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Capital Goods,Pair 2,esankhyiki,,1.2422,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Intermediate Goods,Pair 2,esankhyiki,,0.764,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Consumer Durables,Pair 2,esankhyiki,,1.0157,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Consumer Non-durables,Pair 2,esankhyiki,,0.6017,,,,,,43.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: General,Pair 3,esankhyiki,,0.3996,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Mining,Pair 3,esankhyiki,,0.7035,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Manufacturing,Pair 3,esankhyiki,,0.5449,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Electricity,Pair 3,esankhyiki,,0.0064,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Capital Goods,Pair 3,esankhyiki,,0.9263,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Intermediate Goods,Pair 3,esankhyiki,,1.5463,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Consumer Durables,Pair 3,esankhyiki,,0.5753,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,R with 3-month windows: Consumer Non-durables,Pair 3,esankhyiki,,1.1061,,,,,,19.0,,,,not in tests_spec.md
+R-window,post-review check,H1a group contrast with 3-month windows,Pooled P1+P2,,,4.8152,,,0.0,,PASS,,,,,"contrast P1 -2.396, P2 -0.743; Spearman P1 vs P2 0.714"
+R-window,post-review check,"Spearman rho of R ranks, P1 vs P2, 3-month windows",P1 vs P2,,,0.7143,,,,,,,,,,
+R-window,post-review check,R with 6-month windows: General,Pair 1,esankhyiki,,0.7435,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Mining,Pair 1,esankhyiki,,0.3724,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Manufacturing,Pair 1,esankhyiki,,0.8692,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Electricity,Pair 1,esankhyiki,,0.0258,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Capital Goods,Pair 1,esankhyiki,,0.7851,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Intermediate Goods,Pair 1,esankhyiki,,0.5012,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Consumer Durables,Pair 1,esankhyiki,,0.8964,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Consumer Non-durables,Pair 1,esankhyiki,,0.6606,,,,,,52.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: General,Pair 2,esankhyiki,,1.5036,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Mining,Pair 2,esankhyiki,,0.4586,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Manufacturing,Pair 2,esankhyiki,,1.6544,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Electricity,Pair 2,esankhyiki,,0.4388,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Capital Goods,Pair 2,esankhyiki,,1.1264,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Intermediate Goods,Pair 2,esankhyiki,,0.8088,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Consumer Durables,Pair 2,esankhyiki,,0.9452,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Consumer Non-durables,Pair 2,esankhyiki,,0.6844,,,,,,37.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: General,Pair 3,esankhyiki,,0.7359,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Mining,Pair 3,esankhyiki,,1.594,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Manufacturing,Pair 3,esankhyiki,,1.5832,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Electricity,Pair 3,esankhyiki,,0.0457,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Capital Goods,Pair 3,esankhyiki,,0.2498,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Intermediate Goods,Pair 3,esankhyiki,,0.6387,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Consumer Durables,Pair 3,esankhyiki,,0.5392,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,R with 6-month windows: Consumer Non-durables,Pair 3,esankhyiki,,0.8238,,,,,,13.0,,,,not in tests_spec.md
+R-window,post-review check,H1a group contrast with 6-month windows,Pooled P1+P2,,,4.5948,,,0.0,,PASS,,,,,"contrast P1 -2.002, P2 -0.797; Spearman P1 vs P2 0.857"
+R-window,post-review check,"Spearman rho of R ranks, P1 vs P2, 6-month windows",P1 vs P2,,,0.8571,,,,,,,,,,
+R-window,post-review check,R with 12-month windows: General,Pair 1,esankhyiki,,0.7226,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Mining,Pair 1,esankhyiki,,0.2771,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Manufacturing,Pair 1,esankhyiki,,0.7296,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Electricity,Pair 1,esankhyiki,,0.0239,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Capital Goods,Pair 1,esankhyiki,,0.9412,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Intermediate Goods,Pair 1,esankhyiki,,0.466,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Consumer Durables,Pair 1,esankhyiki,,0.863,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Consumer Non-durables,Pair 1,esankhyiki,,1.0139,,,,,,40.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: General,Pair 2,esankhyiki,,1.7364,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Mining,Pair 2,esankhyiki,,1.1499,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Manufacturing,Pair 2,esankhyiki,,1.5301,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Electricity,Pair 2,esankhyiki,,0.8466,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Capital Goods,Pair 2,esankhyiki,,1.1888,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Intermediate Goods,Pair 2,esankhyiki,,0.9325,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Consumer Durables,Pair 2,esankhyiki,,1.1734,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Consumer Non-durables,Pair 2,esankhyiki,,1.8989,,,,,,25.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: General,Pair 3,esankhyiki,,1.0082,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Mining,Pair 3,esankhyiki,,1.8572,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Manufacturing,Pair 3,esankhyiki,,1.6993,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Electricity,Pair 3,esankhyiki,,0.0079,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Capital Goods,Pair 3,esankhyiki,,0.069,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Intermediate Goods,Pair 3,esankhyiki,,1.6501,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Consumer Durables,Pair 3,esankhyiki,,0.5821,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,R with 12-month windows: Consumer Non-durables,Pair 3,esankhyiki,,1.4688,,,,,,1.0,,,,not in tests_spec.md
+R-window,post-review check,H1a group contrast with 12-month windows,Pooled P1+P2,,,3.6105,,,0.0002,,PASS,,,,,"contrast P1 -2.253, P2 -0.279; Spearman P1 vs P2 0.857"
+R-window,post-review check,"Spearman rho of R ranks, P1 vs P2, 12-month windows",P1 vs P2,,,0.8571,,,,,,,,,,
+H3-other,post-review check,"leader agreement incl. 'Other', margin >= 0.1 pp in both",Pair 1,,,0.3478,,0.4894,,,,46.0,,,,"one-sided 95% upper bound in hi; 'Other' leads on 0.08 (old) / 0.10 (new) of dates; unfiltered agreement 0.308, circular-shift p 0.233"
+H3-other,post-review check,"leader agreement incl. 'Other', margin >= 0.1 pp in both",Pair 2,,,0.1818,,0.3235,,,,33.0,,,,"one-sided 95% upper bound in hi; 'Other' leads on 0.24 (old) / 0.65 (new) of dates; unfiltered agreement 0.189, circular-shift p 0.800"
+H3-other,post-review check,leader agreement incl. 'Other' vs circular-shift null,Pooled P1+P2,,,-0.0051,,,0.502,,FAIL,,,,,Stouffer Z

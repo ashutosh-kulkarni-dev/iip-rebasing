@@ -1,0 +1,7 @@
+pair,window_months,dates,median_abs_disagreement,p90_abs_disagreement,median_abs_change_old,median_abs_change_new,ratio_disagreement_to_larger_change,opposite_direction_share,dates_both_above_1,opposite_share_both_above_1,dates_both_above_2,opposite_share_both_above_2
+Pair 1,6,52,3.048,5.947,3.448,4.099,0.744,0.154,40,0.05,35,0.057
+Pair 1,12,40,5.412,8.621,5.048,7.489,0.723,0.225,33,0.182,28,0.107
+Pair 2,6,37,2.047,5.191,1.31,1.361,1.504,0.595,19,0.842,5,1.0
+Pair 2,12,25,3.637,5.734,2.094,1.772,1.736,0.84,16,1.0,5,1.0
+Pair 3,6,13,0.658,1.799,0.895,0.66,0.736,0.231,1,0.0,0,
+Pair 3,12,1,1.497,1.497,0.012,1.484,1.008,1.0,0,,0,

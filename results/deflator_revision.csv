@@ -1,0 +1,31 @@
+series,fiscal_year,growth_june1,growth_revised,change_pp,max_abs_monthly_index_diff,months_compared
+General,2023-24,6.658,6.792,0.133,1.9,37
+General,2024-25,6.383,5.72,-0.663,1.9,37
+General,2025-26,4.385,4.229,-0.155,1.9,37
+Mining,2023-24,2.167,2.183,0.017,1.5,37
+Mining,2024-25,2.847,2.854,0.008,1.5,37
+Mining,2025-26,3.688,3.687,-0.001,1.5,37
+Manufacturing,2023-24,7.092,7.1,0.008,1.2,37
+Manufacturing,2024-25,6.241,5.999,-0.242,1.2,37
+Manufacturing,2025-26,4.907,4.705,-0.202,1.2,37
+Electricity & Gas Supply,2023-24,6.233,7.392,1.158,13.5,37
+Electricity & Gas Supply,2024-25,9.507,5.261,-4.246,13.5,37
+Electricity & Gas Supply,2025-26,1.082,0.759,-0.322,13.5,37
+Primary Goods,2023-24,4.242,5.375,1.133,5.2,37
+Primary Goods,2024-25,5.38,4.729,-0.651,5.2,37
+Primary Goods,2025-26,4.749,2.303,-2.446,5.2,37
+Capital Goods,2023-24,10.775,10.125,-0.65,7.3,37
+Capital Goods,2024-25,9.328,7.893,-1.436,7.3,37
+Capital Goods,2025-26,11.746,10.331,-1.415,7.3,37
+Intermediate Goods,2023-24,6.117,6.067,-0.05,4.6,37
+Intermediate Goods,2024-25,5.709,5.987,0.278,4.6,37
+Intermediate Goods,2025-26,4.45,5.122,0.672,4.6,37
+Infrastructure/ Construction Goods,2023-24,10.017,10.408,0.392,1.7,37
+Infrastructure/ Construction Goods,2024-25,7.431,6.793,-0.638,1.7,37
+Infrastructure/ Construction Goods,2025-26,9.159,8.82,-0.338,1.7,37
+Consumer Durables,2023-24,4.9,5.033,0.133,2.8,37
+Consumer Durables,2024-25,9.04,8.354,-0.686,2.8,37
+Consumer Durables,2025-26,4.488,3.068,-1.42,2.8,37
+Consumer Non-durables,2023-24,7.583,7.7,0.117,3.0,37
+Consumer Non-durables,2024-25,3.478,3.606,0.128,3.0,37
+Consumer Non-durables,2025-26,0.651,0.807,0.155,3.0,37

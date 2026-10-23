@@ -1,0 +1,47 @@
+episode,statistic,series,source,value
+GFC,"mean YoY growth, crisis window (Sep 2008 - Mar 2010)",General,1993-94 base,7.33
+GFC,"mean YoY growth, 24 months before (Sep 2006 - Aug 2008)",General,1993-94 base,9.179
+GFC,"mean YoY growth, crisis window (Sep 2008 - Mar 2010)",Manufacturing,1993-94 base,7.576
+GFC,"mean YoY growth, 24 months before (Sep 2006 - Aug 2008)",Manufacturing,1993-94 base,9.791
+GFC,"mean YoY growth, crisis window (Sep 2008 - Mar 2010)",General,2004-05 base,3.165
+GFC,"mean YoY growth, 24 months before (Sep 2006 - Aug 2008)",General,2004-05 base,13.535
+GFC,"mean YoY growth, crisis window (Sep 2008 - Mar 2010)",Manufacturing,2004-05 base,2.642
+GFC,"mean YoY growth, 24 months before (Sep 2006 - Aug 2008)",Manufacturing,2004-05 base,15.847
+GFC,"mean YoY growth, crisis window (Sep 2008 - Mar 2010)",General,spliced: new base first,3.165
+GFC,"mean YoY growth, 24 months before (Sep 2006 - Aug 2008)",General,spliced: new base first,13.535
+GFC,"mean YoY growth, crisis window (Sep 2008 - Mar 2010)",General,spliced: old base last,7.33
+GFC,"mean YoY growth, 24 months before (Sep 2006 - Aug 2008)",General,spliced: old base last,9.179
+2012-14 slowdown,annual growth 2012-13,General,2004-05 base,1.135
+2012-14 slowdown,annual growth 2013-14,General,2004-05 base,-0.097
+2012-14 slowdown,annual growth 2012-13,Manufacturing,2004-05 base,1.289
+2012-14 slowdown,annual growth 2013-14,Manufacturing,2004-05 base,-0.768
+2012-14 slowdown,annual growth 2012-13,General,2011-12 base,3.325
+2012-14 slowdown,annual growth 2013-14,General,2011-12 base,3.283
+2012-14 slowdown,annual growth 2012-13,Manufacturing,2011-12 base,4.833
+2012-14 slowdown,annual growth 2013-14,Manufacturing,2011-12 base,3.593
+2012-14 slowdown,annual growth 2012-13,General,spliced: new base first,3.21
+2012-14 slowdown,annual growth 2013-14,General,spliced: new base first,3.283
+2012-14 slowdown,annual growth 2012-13,General,spliced: old base last,1.567
+2012-14 slowdown,annual growth 2013-14,General,spliced: old base last,-0.097
+Demonetisation,"mean YoY growth, before (Apr - Oct 2016)",General,2004-05 base,-0.332
+Demonetisation,"mean YoY growth, before, short (Jul - Oct 2016)",General,2004-05 base,-1.107
+Demonetisation,"mean YoY growth, after (Nov 2016 - Mar 2017)",General,2004-05 base,2.199
+Demonetisation,annual growth 2016-17,General,2004-05 base,0.718
+Demonetisation,"mean YoY growth, before (Apr - Oct 2016)",Manufacturing,2004-05 base,-1.017
+Demonetisation,"mean YoY growth, before, short (Jul - Oct 2016)",Manufacturing,2004-05 base,-1.316
+Demonetisation,"mean YoY growth, after (Nov 2016 - Mar 2017)",Manufacturing,2004-05 base,1.435
+Demonetisation,annual growth 2016-17,Manufacturing,2004-05 base,-0.018
+Demonetisation,"mean YoY growth, before (Apr - Oct 2016)",General,2011-12 base,5.566
+Demonetisation,"mean YoY growth, before, short (Jul - Oct 2016)",General,2011-12 base,4.405
+Demonetisation,"mean YoY growth, after (Nov 2016 - Mar 2017)",General,2011-12 base,3.308
+Demonetisation,annual growth 2016-17,General,2011-12 base,4.584
+Demonetisation,"mean YoY growth, before (Apr - Oct 2016)",Manufacturing,2011-12 base,5.92
+Demonetisation,"mean YoY growth, before, short (Jul - Oct 2016)",Manufacturing,2011-12 base,5.342
+Demonetisation,"mean YoY growth, after (Nov 2016 - Mar 2017)",Manufacturing,2011-12 base,2.213
+Demonetisation,annual growth 2016-17,Manufacturing,2011-12 base,4.32
+Demonetisation,"mean YoY growth, before (Apr - Oct 2016)",General,spliced: new base first,5.566
+Demonetisation,"mean YoY growth, before, short (Jul - Oct 2016)",General,spliced: new base first,4.405
+Demonetisation,"mean YoY growth, after (Nov 2016 - Mar 2017)",General,spliced: new base first,3.308
+Demonetisation,"mean YoY growth, before (Apr - Oct 2016)",General,spliced: old base last,-0.332
+Demonetisation,"mean YoY growth, before, short (Jul - Oct 2016)",General,spliced: old base last,-1.107
+Demonetisation,"mean YoY growth, after (Nov 2016 - Mar 2017)",General,spliced: old base last,2.199
