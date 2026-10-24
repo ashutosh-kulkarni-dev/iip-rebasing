@@ -6,6 +6,7 @@
 !README.md
 !LICENSE
 !requirements.txt
+!tests_spec.md
 
 # Pipeline (named, so stray drafts in pipeline/ are never pushed)
 !pipeline/config.py
@@ -24,6 +25,15 @@
 !pipeline/charts.py
 !pipeline/paper_numbers.py
 !pipeline/run_all.py
+!pipeline/value_shares.py
+!pipeline/splice_extra.py
+!pipeline/reliability.py
+!pipeline/diagnosis.py
+!pipeline/sources.py
+!pipeline/tests.py
+!pipeline/harinf.py
+!pipeline/window_contrast.py
+!pipeline/charts_reliability.py
 
 # Raw inputs that are redistributed, with provenance
 !data/raw/README.md
@@ -43,6 +53,8 @@
 # Results and figures
 !results/*.csv
 !results/paper_numbers.json
+!results/fixed_b_critical_values.json
+!results/*.md
 !charts/*.png
 
 __pycache__/

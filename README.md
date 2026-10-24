@@ -103,9 +103,9 @@ India, and are redistributed here for reproducibility; please cite the original 
 
 ## Paper draft
 
-The current manuscript is `IIP_rebasing_paper_13.docx` (Springer LNCS layout). From v12 onwards the
+The current manuscript is `IIP_rebasing_paper_16.docx` (Springer LNCS layout). From v12 onwards the
 paper is descriptive: it reports 95% block-bootstrap intervals for each overlap and no longer uses the
-pre-specified tests, pooling, Holm adjustment or readability tiers. `tests_spec.md`, `pipeline/tests.py`
+pre-specified tests or pooling; readability is the per-overlap Holm-adjusted tier from `tests.py`. `tests_spec.md`, `pipeline/tests.py`
 and `results/RESULTS_v2.md` are kept as the archived exploratory plan; the paper quotes from them only
 the interval estimates and sensitivity checks listed below.
 
@@ -113,7 +113,9 @@ Where the numbers in the current paper come from:
 
 | Paper | File |
 |---|---|
-| Table 3, Fig. 1 (R and intervals) | `results/tests_h2_tiers.csv` (columns `R`, `lo`, `hi`) drawn by `charts_reliability.py` |
+| Table 3, Fig. 1 (R, intervals, readability) | `results/tests_h2_tiers.csv` (columns `R`, `lo`, `hi`, `tier`, `p_read_adj_b12`, `p_read_adj_b6`) drawn by `charts_reliability.py` |
+| Leader agreement at other thresholds | `results/tests.csv`, rows `H3b` (0, 0.1, 0.25, 0.5 pp) |
+| Leader frequencies (44%, 52%, 49%) | `results/diagnosis_dates.csv`, `leader_old` / `leader_new` with `L` = 6 |
 | Single-source contrast and its intervals (Section 6.1) | `results/tests.csv`, rows `H1a group contrast` (blocks 12 and 6) and `H1a-geo` |
 | Contrast with 3- and 12-month windows | `results/window_contrast.csv` (`window_contrast.py`) |
 | Leader agreement, bounds, reversals | `results/tests.csv`, rows `H3b`, `H3c`, `H3-other` |
