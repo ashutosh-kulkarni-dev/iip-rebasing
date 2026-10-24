@@ -103,7 +103,7 @@ India, and are redistributed here for reproducibility; please cite the original 
 
 ## Paper draft
 
-The current manuscript is `IIP_rebasing_paper_16.docx` (Springer LNCS layout). From v12 onwards the
+The current manuscript is `IIP_rebasing_paper_18.docx` (Springer LNCS layout). From v12 onwards the
 paper is descriptive: it reports 95% block-bootstrap intervals for each overlap and no longer uses the
 pre-specified tests or pooling; readability is the per-overlap Holm-adjusted tier from `tests.py`. `tests_spec.md`, `pipeline/tests.py`
 and `results/RESULTS_v2.md` are kept as the archived exploratory plan; the paper quotes from them only
@@ -120,6 +120,8 @@ Where the numbers in the current paper come from:
 | Contrast with 3- and 12-month windows | `results/window_contrast.csv` (`window_contrast.py`) |
 | Leader agreement, bounds, reversals | `results/tests.csv`, rows `H3b`, `H3c`, `H3-other` |
 | Leader agreement against independent choice | `results/diagnosis_summary.csv`, `leader_same` and `leader_same_chance` |
+| Circular-shift test of leader agreement (p = 0.40, 0.20) | `results/tests.csv`, rows `H3a` |
+| Geometric-mean ratios (Section 6.1) | `results/tests.csv`, rows `H2-geo` and `H1a-geo` |
 | Weight vs data shares | `results/sources_*.csv` |
 
 `paper/build_paper.py` and `paper/render.js` build an earlier draft (v9) and do not produce the

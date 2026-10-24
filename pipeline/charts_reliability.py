@@ -37,17 +37,21 @@ for ax, pair in zip(axes, ['Pair 1', 'Pair 2', 'Pair 3']):
         if pair == 'Pair 3':
             ax.plot(r['R'], yi, 'o', color='white', mec=GREY, mew=1.2, ms=5.5)
             continue
-        c = {'readable': NEW, 'undetermined': GREY, 'unreadable': OLD}[r['tier'].split(' (')[0]]
-        ax.plot([r['lo'], r['hi']], [yi, yi], color=c, lw=1.3, alpha=0.7, solid_capstyle='round')
-        ax.plot(r['R'], yi, 'o', color=c, ms=5.5, mec='white', mew=0.8)
+        tier = r['tier'].split(' (')[0]
+        c = {'readable': NEW, 'undetermined': GREY, 'unreadable': OLD}[tier]
+        # Second encoding for greyscale print: readable = square marker and solid line,
+        # undetermined = circle and dashed line.
+        mk, ls = ('s', '-') if tier == 'readable' else ('o', (0, (3, 2)))
+        ax.plot([r['lo'], r['hi']], [yi, yi], color=c, lw=1.3, alpha=0.8, ls=ls, solid_capstyle='round')
+        ax.plot(r['R'], yi, mk, color=c, ms=5.5, mec='black' if tier == 'readable' else 'white', mew=0.6)
     ax.set_yticks(y)
     ax.set_yticklabels([u.replace('Consumer ', 'Cons. ') for u in ORDER])
     ax.set_xlim(0, 2.7)
     ax.set_title(titles[pair], fontsize=8, color=INK)
     ax.grid(axis='x', color=GRID, lw=0.5)
     ax.set_xlabel('disagreement ratio R')
-H = [plt.Line2D([], [], marker='o', color=NEW, ms=5, label='Readable (Holm-adjusted)'),
-     plt.Line2D([], [], marker='o', color=GREY, ms=5, label='Undetermined'),
+H = [plt.Line2D([], [], marker='s', color=NEW, mec='black', mew=0.6, ms=5, ls='-', label='Readable (Holm-adjusted)'),
+     plt.Line2D([], [], marker='o', color=GREY, ms=5, ls=(0, (3, 2)), label='Undetermined'),
      plt.Line2D([], [], marker='o', color='white', mec=GREY, mew=1.2, ls='', ms=5, label='Point estimate only')]
 fig.legend(handles=H, loc='lower center', ncol=3, frameon=False, bbox_to_anchor=(0.55, -0.02))
 fig.tight_layout(rect=(0, 0.07, 1, 1))
@@ -65,8 +69,9 @@ for ax, (ep, win, title) in zip(axes, PANELS):
     d = E[(E['episode'] == ep) & (E['window'] == win)].set_index('unit').reindex(UNITS)
     y = np.arange(len(UNITS))[::-1]
     ax.axvline(0, color=MUTED, lw=0.6)
-    ax.barh(y + 0.19, d['old'], height=0.36, color=OLD, label='Older base', edgecolor='white', linewidth=0.5)
-    ax.barh(y - 0.19, d['new'], height=0.36, color=NEW, label='Newer base', edgecolor='white', linewidth=0.5)
+    # Older base hatched so the two bases differ in greyscale print as well as in colour.
+    ax.barh(y + 0.19, d['old'], height=0.36, color=OLD, label='Older base', edgecolor='black', linewidth=0.4, hatch='////')
+    ax.barh(y - 0.19, d['new'], height=0.36, color=NEW, label='Newer base', edgecolor='black', linewidth=0.4)
     ax.set_yticks(y)
     ax.set_yticklabels(['Other (basic etc.)' if u == 'Other' else ('General (total)' if u == 'General' else u) for u in UNITS])
     ax.set_title(title, fontsize=7.5, color=INK)
