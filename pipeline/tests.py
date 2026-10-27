@@ -353,6 +353,13 @@ for key in CONF + EXPL:
             h4a_ends.setdefault(key[0], []).append(max(abs(lo), abs(hi)))
         row(id='H4a', type='bound' if key in CONF else 'exploratory', item=f'weight-effect share of MSD: {c}', pair=key[0],
             version=key[1], estimate=est, lo=lo, hi=hi, n=T, block=12 if T >= 36 else 6, B=B, note='90% interval')
+    # Total weight-effect share: the sum over all categories (added in the fourth review; not in tests_spec.md).
+    wsum = sum(wt[c] for c in USE_UNITS + ['Other'])
+    dr = msd_share(wsum[idx], TT)
+    lo, hi = np.quantile(dr, [0.05, 0.95])
+    row(id='H4a-total', type='post-review check', item='total weight-effect share of MSD (base-year weights)', pair=key[0],
+        version=key[1], estimate=msd_share(wsum, tot), lo=lo, hi=hi, n=T, block=12 if T >= 36 else 6, B=B,
+        note='90% interval; sum over all categories; not in tests_spec.md')
     cg_draws[key] = (dm_share(dt['Capital Goods'], tot), dm_share(dt['Capital Goods'][idx], TT))
     # H4d
     part = dt['Capital Goods'] + dt['Consumer Durables']
@@ -585,6 +592,12 @@ for key in CONF + EXPL:
     for c in USE_UNITS + ['Other']:
         row(id='H4a-eff', type='post-review check', item=f'data-effect share of MSD (effective weights): {c}', pair=key[0],
             version=key[1], estimate=msd_share(dt[c], tot), n=T)
+    wsum = sum(wt[c] for c in USE_UNITS + ['Other'])
+    dr = msd_share(wsum[idx], TT)
+    lo, hi = np.quantile(dr, [0.05, 0.95])
+    row(id='H4a-total-eff', type='post-review check', item='total weight-effect share of MSD (effective weights)', pair=key[0],
+        version=key[1], estimate=msd_share(wsum, tot), lo=lo, hi=hi, n=T, block=12 if T >= 36 else 6, B=B,
+        note='90% interval; sum over all categories; not in tests_spec.md')
     cg_eff[key] = (dm_share(dt['Capital Goods'], tot), dm_share(dt['Capital Goods'][idx], TT))
     part = dt['Capital Goods'] + dt['Consumer Durables']
     vo = (Co['Capital Goods'] + Co['Consumer Durables']).values

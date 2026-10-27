@@ -50,8 +50,7 @@ each with its source. The pipeline is deterministic: the block bootstrap uses a 
 
 ## Revision of October 2026: sectoral reliability
 
-Stages added for the reframed paper ("Which sectors survive rebasing?"). **Read
-[`results/FINDINGS.md`](results/FINDINGS.md) first**: it summarises every number with confidence tags.
+Stages added for the reframed paper ("What survives rebasing?").
 
 | Stage | Script | Output |
 |---|---|---|
@@ -65,7 +64,7 @@ Stages added for the reframed paper ("Which sectors survive rebasing?"). **Read
 ### Plan v2: pre-specified tests
 
 `tests_spec.md` (repository root) fixes every test, bound and decision rule. It was written
-before `pipeline/tests.py`. **Results and their strength: [`results/RESULTS_v2.md`](results/RESULTS_v2.md).**
+before `pipeline/tests.py`. Every specified test and bound, including those that fail, is written to `results/tests.csv`.
 
 | Stage | Script | Output |
 |---|---|---|
@@ -103,11 +102,11 @@ India, and are redistributed here for reproducibility; please cite the original 
 
 ## Paper draft
 
-The current manuscript is `IIP_rebasing_paper_18.docx` (Springer LNCS layout). From v12 onwards the
+The current manuscript is `IIP_rebasing_paper_21.docx` (Springer LNCS layout). From v12 onwards the
 paper is descriptive: it reports 95% block-bootstrap intervals for each overlap and no longer uses the
-pre-specified tests or pooling; readability is the per-overlap Holm-adjusted tier from `tests.py`. `tests_spec.md`, `pipeline/tests.py`
-and `results/RESULTS_v2.md` are kept as the archived exploratory plan; the paper quotes from them only
-the interval estimates and sensitivity checks listed below.
+pre-specified tests or pooling as its decision rule; readability is the per-overlap Holm-adjusted tier from `tests.py`.
+The full plan (`tests_spec.md`) and all of its outcomes (`results/tests.csv`) are disclosed in Section 4.4 of the paper;
+the paper reports a subset as descriptive evidence.
 
 Where the numbers in the current paper come from:
 
@@ -122,10 +121,11 @@ Where the numbers in the current paper come from:
 | Leader agreement against independent choice | `results/diagnosis_summary.csv`, `leader_same` and `leader_same_chance` |
 | Circular-shift test of leader agreement (p = 0.40, 0.20) | `results/tests.csv`, rows `H3a` |
 | Geometric-mean ratios (Section 6.1) | `results/tests.csv`, rows `H2-geo` and `H1a-geo` |
+| Mining vs manufacturing contrast (Section 6.1) | `results/tests.csv`, rows `H1a Mining vs Manufacturing` |
+| Direction of large General movements (Section 6.2) | `results/tests.csv`, rows `H3d` |
+| Total weight-effect share (abstract, Section 6.3) | `results/tests.csv`, rows `H4a-total` and `H4a-total-eff` |
+| ASI benchmark (Section 7) | `results/asi_benchmark_summary.csv` |
 | Weight vs data shares | `results/sources_*.csv` |
 
 `paper/build_paper.py` and `paper/render.js` build an earlier draft (v9) and do not produce the
 current manuscript, which was edited directly; do not use them to regenerate the paper.
-
-Before submission: confirm that the repository cited in the paper (github.com/ashutosh-kulkarni-dev/iip-rebasing) is
-public and matches this folder.

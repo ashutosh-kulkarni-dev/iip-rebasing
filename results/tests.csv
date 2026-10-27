@@ -104,24 +104,28 @@ H4a,bound,weight-effect share of MSD: Intermediate Goods,Pair 1,esankhyiki,12.0,
 H4a,bound,weight-effect share of MSD: Consumer Durables,Pair 1,esankhyiki,12.0,0.01,-0.0721,0.0859,,,,63.0,,9999.0,,90% interval
 H4a,bound,weight-effect share of MSD: Consumer Non-durables,Pair 1,esankhyiki,12.0,-0.0143,-0.0253,-0.003,,,,63.0,,9999.0,,90% interval
 H4a,bound,weight-effect share of MSD: Other,Pair 1,esankhyiki,12.0,0.0379,-0.0269,0.1053,,,,63.0,,9999.0,,90% interval
+H4a-total,post-review check,total weight-effect share of MSD (base-year weights),Pair 1,esankhyiki,12.0,-0.0032,-0.0318,0.0333,,,,63.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d,test,CG+CD demeaned data share minus volatility share,Pair 1,esankhyiki,12.0,0.2518,0.0716,0.4074,0.0031,,,63.0,,9999.0,,
 H4a,bound,weight-effect share of MSD: Capital Goods,Pair 2,esankhyiki,12.0,0.0106,0.006,0.0136,,,,48.0,,9999.0,,90% interval
 H4a,bound,weight-effect share of MSD: Intermediate Goods,Pair 2,esankhyiki,12.0,0.0095,0.0064,0.0132,,,,48.0,,9999.0,,90% interval
 H4a,bound,weight-effect share of MSD: Consumer Durables,Pair 2,esankhyiki,12.0,-0.0169,-0.1015,0.0297,,,,48.0,,9999.0,,90% interval
 H4a,bound,weight-effect share of MSD: Consumer Non-durables,Pair 2,esankhyiki,12.0,-0.0249,-0.0432,-0.0081,,,,48.0,,9999.0,,90% interval
 H4a,bound,weight-effect share of MSD: Other,Pair 2,esankhyiki,12.0,0.0054,0.0036,0.0071,,,,48.0,,9999.0,,90% interval
+H4a-total,post-review check,total weight-effect share of MSD (base-year weights),Pair 2,esankhyiki,12.0,-0.0164,-0.1097,0.0373,,,,48.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d,test,CG+CD demeaned data share minus volatility share,Pair 2,esankhyiki,12.0,0.1552,0.0424,0.383,0.0028,,,48.0,,9999.0,,
 H4a,exploratory,weight-effect share of MSD: Capital Goods,Pair 3,esankhyiki,6.0,-0.0034,-0.0058,-0.0004,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Intermediate Goods,Pair 3,esankhyiki,6.0,0.1142,0.0445,0.1579,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Consumer Durables,Pair 3,esankhyiki,6.0,-0.0446,-0.0552,-0.0262,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Consumer Non-durables,Pair 3,esankhyiki,6.0,0.0028,-0.0004,0.0058,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Other,Pair 3,esankhyiki,6.0,-0.0828,-0.109,-0.0424,,,,24.0,,9999.0,,90% interval
+H4a-total,post-review check,total weight-effect share of MSD (base-year weights),Pair 3,esankhyiki,6.0,-0.0138,-0.0456,0.0137,,,,24.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d,exploratory,CG+CD demeaned data share minus volatility share,Pair 3,esankhyiki,6.0,-0.0609,-0.1691,0.1569,0.7535,,,24.0,,9999.0,,
 H4a,exploratory,weight-effect share of MSD: Capital Goods,Pair 3,june2026,6.0,-0.003,-0.0044,-0.0006,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Intermediate Goods,Pair 3,june2026,6.0,0.0861,0.0347,0.1099,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Consumer Durables,Pair 3,june2026,6.0,-0.033,-0.0422,-0.0159,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Consumer Non-durables,Pair 3,june2026,6.0,0.0012,-0.0027,0.0036,,,,24.0,,9999.0,,90% interval
 H4a,exploratory,weight-effect share of MSD: Other,Pair 3,june2026,6.0,-0.0682,-0.0879,-0.0358,,,,24.0,,9999.0,,90% interval
+H4a-total,post-review check,total weight-effect share of MSD (base-year weights),Pair 3,june2026,6.0,-0.0169,-0.0409,0.0007,,,,24.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d,exploratory,CG+CD demeaned data share minus volatility share,Pair 3,june2026,6.0,-0.1469,-0.2691,-0.0007,0.9763,,,24.0,,9999.0,,
 H4a,bound,"bound b: largest |90% interval end| of weight-effect share, all units, P1 and P2",P1 and P2,,,0.1185,,,,,,,,,,Pair 1: 0.119; Pair 2: 0.102
 H4d,test,CG+CD concentration beyond volatility,Pooled P1+P2,,,3.8837,,,0.0001,,PASS,,,,,Stouffer Z
@@ -177,6 +181,7 @@ H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermed
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 1,esankhyiki,,0.2823,,,,,,63.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 1,esankhyiki,,0.0981,,,,,,63.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 1,esankhyiki,,0.0766,,,,,,63.0,,,,
+H4a-total-eff,post-review check,total weight-effect share of MSD (effective weights),Pair 1,esankhyiki,12.0,-0.0436,-0.0672,0.0005,,,,63.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 1,esankhyiki,12.0,0.3087,0.102,0.4636,0.0019,,,63.0,,9999.0,,
 H4a-eff,post-review check,weight-effect share of MSD (effective weights): Capital Goods,Pair 2,esankhyiki,12.0,0.0662,0.0402,0.0855,,,,48.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.426, new 0.897"
 H4a-eff,post-review check,weight-effect share of MSD (effective weights): Intermediate Goods,Pair 2,esankhyiki,12.0,0.0278,0.019,0.0379,,,,48.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.869, new 1.033"
@@ -188,6 +193,7 @@ H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermed
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 2,esankhyiki,,0.2372,,,,,,48.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 2,esankhyiki,,0.1814,,,,,,48.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 2,esankhyiki,,0.1146,,,,,,48.0,,,,
+H4a-total-eff,post-review check,total weight-effect share of MSD (effective weights),Pair 2,esankhyiki,12.0,0.1249,0.1031,0.1403,,,,48.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 2,esankhyiki,12.0,0.0636,-0.0253,0.2492,0.0908,,,48.0,,9999.0,,
 H4a-eff,post-review check,weight-effect share of MSD (effective weights): Capital Goods,Pair 3,esankhyiki,6.0,0.0608,-0.0001,0.1085,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.732, new 1.039"
 H4a-eff,post-review check,weight-effect share of MSD (effective weights): Intermediate Goods,Pair 3,esankhyiki,6.0,0.0823,0.0315,0.1136,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.074, new 0.995"
@@ -199,6 +205,7 @@ H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermed
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 3,esankhyiki,,0.0612,,,,,,24.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 3,esankhyiki,,0.4408,,,,,,24.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 3,esankhyiki,,0.2732,,,,,,24.0,,,,
+H4a-total-eff,post-review check,total weight-effect share of MSD (effective weights),Pair 3,esankhyiki,6.0,0.042,-0.0321,0.1019,,,,24.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 3,esankhyiki,6.0,-0.066,-0.1886,0.1205,0.7639,,,24.0,,9999.0,,
 H4a-eff,post-review check,weight-effect share of MSD (effective weights): Capital Goods,Pair 3,june2026,6.0,0.0559,0.0087,0.0855,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 0.732, new 1.051"
 H4a-eff,post-review check,weight-effect share of MSD (effective weights): Intermediate Goods,Pair 3,june2026,6.0,0.0626,0.0263,0.0792,,,,24.0,,9999.0,,"90% interval; effective weights; mean effective/nominal weight old 1.074, new 0.992"
@@ -210,6 +217,7 @@ H4a-eff,post-review check,data-effect share of MSD (effective weights): Intermed
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Durables,Pair 3,june2026,,0.0764,,,,,,24.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Consumer Non-durables,Pair 3,june2026,,0.3218,,,,,,24.0,,,,
 H4a-eff,post-review check,data-effect share of MSD (effective weights): Other,Pair 3,june2026,,0.4207,,,,,,24.0,,,,
+H4a-total-eff,post-review check,total weight-effect share of MSD (effective weights),Pair 3,june2026,6.0,0.0294,-0.0269,0.066,,,,24.0,,9999.0,,90% interval; sum over all categories; not in tests_spec.md
 H4d-eff,post-review check,CG+CD demeaned data share minus volatility share (effective weights),Pair 3,june2026,6.0,-0.1389,-0.2609,0.0136,0.9589,,,24.0,,9999.0,,
 H4a-eff,post-review check,"bound b: largest |90% interval end| of weight-effect share, all units, P1 and P2 (effective weights)",P1 and P2,,,0.1673,,,,,,,,,,Pair 1: 0.167; Pair 2: 0.085
 H4d-eff,post-review check,CG+CD concentration beyond volatility (effective weights),Pooled P1+P2,,,3.0589,,,0.0011,,PASS,,,,,Stouffer Z

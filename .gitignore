@@ -54,7 +54,6 @@
 !results/*.csv
 !results/paper_numbers.json
 !results/fixed_b_critical_values.json
-!results/*.md
 !charts/*.png
 
 __pycache__/
